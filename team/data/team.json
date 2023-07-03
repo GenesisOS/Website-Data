@@ -1,0 +1,28 @@
+{
+   "team": [
+      {
+         "id": 1,
+         "name": "Nerdfail",
+         "description": "Core Member",
+         "gitUrl": "https://www.github.com/",
+         "telegramUrl": "https://telegram.me/",
+         "imageUrl": "https://raw.githubusercontent.com/milindgoel15/dummy-json-data/main/team/images/user.webp"
+      },
+      {
+         "id": 2,
+         "name": "Asad",
+         "description": "Core Member",
+         "gitUrl": "https://www.github.com/",
+         "telegramUrl": "https://telegram.me/Idkwhytff",
+         "imageUrl": "https://raw.githubusercontent.com/milindgoel15/dummy-json-data/main/team/images/user.webp"
+      },
+      {
+         "id": 3,
+         "name": "Milind Goel",
+         "description": "Website Maintainer",
+         "gitUrl": "https://www.github.com/milindgoel15",
+         "telegramUrl": "https://telegram.me/milindgoel15",
+         "imageUrl": "https://imgur.com/hWL8t48.png"
+      }
+   ]
+}
