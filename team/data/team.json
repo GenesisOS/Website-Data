@@ -24,5 +24,13 @@
          "telegramUrl": "https://telegram.me/milindgoel15",
          "imageUrl": "https://imgur.com/hWL8t48.png"
       }
+      {
+         "id": 4,
+         "name": "PAIN",
+         "description": "SIDE CHARACTER",
+         "gitUrl": "https://www.github.com/Iam-PAIN",
+         "telegramUrl": "https://telegram.me/Iam_PAIN",
+         "imageUrl": "https://avatars.githubusercontent.com/u/53990049?v=4"
+      }
    ]
 }
