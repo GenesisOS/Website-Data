@@ -2,51 +2,27 @@
    "devices": [
       {
          "id": 1,
-         "name": "Redmi Note 10 Pro (Sweet)",
+         "name": "Redmi Note 10 Pro",
+         "codename": "sweet",
          "imageUrl": "https://raw.githubusercontent.com/milindgoel15/dummy-json-data/main/devices/images/redminote10pro.png",
          "maintainer": "lorem ipsum",
-         "buildDate": "lorem ipsum",
-         "buildUrl": [
-            {
-               "id": 1,
-               "flavour": "GAPPS",
-               "downloadUrl": ""
-            },
-            {
-               "id": 2,
-               "flavour": "VANILLA",
-               "downloadUrl": ""
-            },
-            {
-               "id": 3,
-               "flavour": "OLDER BUILDS",
-               "downloadUrl": ""
-            }
-         ]
+         "buildDate": "lorem ipsum"
       },
       {
          "id": 2,
          "name": "Poco F1",
+         "codename": "beryllium",
          "imageUrl": "https://raw.githubusercontent.com/milindgoel15/dummy-json-data/main/devices/images/redminote10pro.png",
          "maintainer": "lorem ipsum",
-         "buildDate": "lorem ipsum",
-         "buildUrl": [
-            {
-               "id": 1,
-               "flavour": "GAPPS",
-               "downloadUrl": ""
-            },
-            {
-               "id": 2,
-               "flavour": "VANILLA",
-               "downloadUrl": ""
-            },
-            {
-               "id": 3,
-               "flavour": "OLDER BUILDS",
-               "downloadUrl": ""
-            }
-         ]
+         "buildDate": "lorem ipsum"
+      },
+      {
+         "id": 3,
+         "name": "OnePlus 5T",
+         "codename": "fajita",
+         "imageUrl": "https://raw.githubusercontent.com/milindgoel15/dummy-json-data/main/devices/images/redminote10pro.png",
+         "maintainer": "lorem ipsum",
+         "buildDate": "lorem ipsum"
       }
    ]
 }
