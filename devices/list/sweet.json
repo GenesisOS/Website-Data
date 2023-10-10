@@ -1,0 +1,16 @@
+{
+   "response": [
+      {
+         "id": 1,
+         "name": "Redmi Note 10 Pro (Sweet)",
+         "codename": "sweet",
+         "imageUrl": "https://raw.githubusercontent.com/milindgoel15/dummy-json-data/main/devices/images/redminote10pro.png",
+         "maintainer": "lorem ipsum",
+         "buildDate": "lorem ipsum",
+         "oem": "Xiaomi",
+         "supportGroup": "",
+         "donate": "",
+         "olderBuilds": ""
+      }
+   ]
+}
