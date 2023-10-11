@@ -5,24 +5,24 @@
          "name": "Redmi Note 10 Pro",
          "codename": "sweet",
          "imageUrl": "https://raw.githubusercontent.com/milindgoel15/dummy-json-data/main/devices/images/redminote10pro.png",
-         "maintainer": "lorem ipsum",
-         "buildDate": "lorem ipsum"
+         "maintainer": "Alen24",
+         "buildDate": "29 Sept 2023"
       },
       {
          "id": 2,
          "name": "Poco F1",
          "codename": "beryllium",
          "imageUrl": "https://raw.githubusercontent.com/milindgoel15/dummy-json-data/main/devices/images/redminote10pro.png",
-         "maintainer": "lorem ipsum",
-         "buildDate": "lorem ipsum"
+         "maintainer": "Nerd",
+         "buildDate": "29 Sept 2023"
       },
       {
          "id": 3,
          "name": "OnePlus 5T",
          "codename": "fajita",
          "imageUrl": "https://raw.githubusercontent.com/milindgoel15/dummy-json-data/main/devices/images/redminote10pro.png",
-         "maintainer": "lorem ipsum",
-         "buildDate": "lorem ipsum"
+         "maintainer": "Nerd",
+         "buildDate": "29 Sept 2023"
       }
    ]
 }
