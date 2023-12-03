@@ -20,15 +20,16 @@ Make sure the last added key-value or object does not end with a comma
 ```json
 {
 	"id": 1,
-	"name": "OnePlus 6T",
-	"codename": "fajita",
-	"imageUrl": "https://raw.githubusercontent.com/milindgoel15/dummy-json-data/main/devices/images/redminote10pro.png",
-	"maintainer": "nerd",
+	"name": "Poco F3/Mi 11x 5G",
+	"codename": "alioth",
+	"imageUrl": "https://images.pling.com/img/00/00/68/21/39/1917153/poco-f3.jpg",
+	"maintainer": "Nerd",
 	"buildDate": "29 Sept 2023",
-	"oem": "OnePlus",
+	"oem": "Xiaomi",
+	"download": "https://www.pling.com/p/1917153/",
 	"supportGroup": "",
 	"donate": "",
-	"olderBuilds": ""
+	"olderBuilds": "https://sourceforge.net/projects/protonplus/files/Tiramisu/alioth/"
 }
 ```
 
