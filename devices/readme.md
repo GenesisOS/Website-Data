@@ -2,6 +2,8 @@ Each of the device is written as an object. Consider using this template to add/
 
 ## Template for devices
 
+> devices/data/devices.json
+
 ```json
 {
 	"id": 1, // increase the id number by 1 to last id value
@@ -16,6 +18,8 @@ Each of the device is written as an object. Consider using this template to add/
 Make sure the last added key-value or object does not end with a comma
 
 ## Template for each specific device:
+
+> e.g., devices/list/alioth.json
 
 ```json
 {
