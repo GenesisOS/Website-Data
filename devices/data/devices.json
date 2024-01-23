@@ -20,7 +20,7 @@
          "id": 3,
          "name": "Poco F3/Mi 11x 5G",
          "codename": "alioth",
-         "imageUrl": "https://images.pling.com/img/00/00/68/21/39/1917153/poco-f3.jpg",
+         "imageUrl": "https://github.com/GenesisOS/Website-Data/blob/main/devices/images/Alioth.png",
          "maintainer": "Nerd",
          "buildDate": "29 Sept 2023"
       },
