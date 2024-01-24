@@ -27,7 +27,8 @@
                "feature": "Up To Date Android Security Patch"
             }
          ],
-         "screenshotsUrl": "/"
+         "screenshotsUrl": "/",
+         "featuresList": "/"
       }
    }
 }
