@@ -9,7 +9,7 @@ Each of the device is written as an object. Consider using this template to add/
 	"id": 1, // increase the id number by 1 to last id value
 	"name": "Redmi Note 10 Pro",
 	"codename": "sweet",
-	"imageUrl": "https://raw.githubusercontent.com/milindgoel15/dummy-json-data/main/devices/images/redminote10pro.png",
+	"imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/redminote10pro.png",
 	"maintainer": "Alen24",
 	"buildDate": "29 Sept 2023"
 }
