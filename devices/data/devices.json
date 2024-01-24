@@ -4,7 +4,7 @@
          "id": 1,
          "name": "Redmi Note 10 Pro",
          "codename": "sweet",
-         "imageUrl": "https://raw.githubusercontent.com/milindgoel15/dummy-json-data/main/devices/images/redminote10pro.png",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/redminote10pro.png",
          "maintainer": "Alen24",
          "buildDate": "29 Sept 2023"
       },
@@ -12,7 +12,7 @@
          "id": 2,
          "name": "Poco F1",
          "codename": "beryllium",
-         "imageUrl": "https://raw.githubusercontent.com/milindgoel15/dummy-json-data/main/devices/images/redminote10pro.png",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/redminote10pro.png",
          "maintainer": "Nerd",
          "buildDate": "29 Sept 2023"
       },
@@ -20,7 +20,7 @@
          "id": 3,
          "name": "Poco F3/Mi 11x 5G",
          "codename": "alioth",
-         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/8fc0a4547089e557628de9e3eb336956615a940a/devices/images/Alioth.png",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/Alioth.png",
          "maintainer": "Nerd",
          "buildDate": "29 Sept 2023"
       },
@@ -28,7 +28,7 @@
          "id": 4,
          "name": "OnePlus 5T",
          "codename": "fajita",
-         "imageUrl": "https://raw.githubusercontent.com/milindgoel15/dummy-json-data/main/devices/images/redminote10pro.png",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/redminote10pro.png",
          "maintainer": "Nerd",
          "buildDate": "29 Sept 2023"
       }
