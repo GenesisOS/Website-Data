@@ -1,0 +1,33 @@
+{
+   "response": {
+      "id": 1,
+      "heroSection": {
+         "id": 1,
+         "description": "GenesisOS is a Custom After Market OS based on AOSP with nifty little Quality of Life features to enhance your daily driving experience.",
+         "heroImage": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/home/images/hero.png"
+      },
+      "featuresSection": {
+         "id": 1,
+         "featuresImage": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/home/images/features.png",
+         "features": [
+            {
+               "id": 1,
+               "feature": "GenUI 1.0"
+            },
+            {
+               "id": 2,
+               "feature": "Based on Android 14"
+            },
+            {
+               "id": 3,
+               "feature": "OTA Support"
+            },
+            {
+               "id": 4,
+               "feature": "Up To Date Android Security Patch"
+            }
+         ],
+         "screenshotsUrl": "/"
+      }
+   }
+}
