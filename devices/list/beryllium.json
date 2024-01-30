@@ -5,13 +5,13 @@
          "name": "Poco F1",
          "codename": "beryllium",
          "imageUrl": "https://raw.githubusercontent.com/milindgoel15/dummy-json-data/main/devices/images/redminote10pro.png",
-         "maintainer": "nerd",
-         "buildDate": "29 Sept 2023",
+         "maintainer": "Ayush",
+         "buildDate": "01 Feb 2024",
          "oem": "Xiaomi",
-         "download": "https://www.pling.com/p/1917153/",
+         "download": "https://www.pling.com/p/1918923/",
          "supportGroup": "",
-         "donate": "",
-         "olderBuilds": ""
+         "donate": "https://t.me/AkatsukiProjects/9",
+         "olderBuilds": "https://sourceforge.net/projects/genesisos/files/UTOPIA/BERYLLIUM/"
       }
    ]
 }

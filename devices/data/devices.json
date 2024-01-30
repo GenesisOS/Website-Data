@@ -21,7 +21,7 @@
          "name": "Poco F3",
          "codename": "alioth",
          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/ALIOTH.png",
-         "maintainer": "Pain x Sukh",
+         "maintainer": "Sukh x Pain",
          "buildDate": "01 Feb 2024"
       },
       {
@@ -29,7 +29,7 @@
          "name": "Redmi Note 7 Pro",
          "codename": "violet",
          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/VIOLET.png",
-         "maintainer": "Pain x Asad",
+         "maintainer": "Asad x Pain",
          "buildDate": "01 Feb 2024"
       },
 
