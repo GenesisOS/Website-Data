@@ -2,35 +2,90 @@
    "devices": [
       {
          "id": 1,
-         "name": "Redmi Note 10 Pro",
-         "codename": "sweet",
-         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/redminote10pro.png",
-         "maintainer": "Alen24",
-         "buildDate": "29 Sept 2023"
+         "name": "Poco F5",
+         "codename": "marble",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/MARBLE.png",
+         "maintainer": "Prajwal and Nitish",
+         "buildDate": "01 Feb 2024"
       },
       {
          "id": 2,
          "name": "Poco F1",
          "codename": "beryllium",
-         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/redminote10pro.png",
-         "maintainer": "Nerd",
-         "buildDate": "29 Sept 2023"
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/BERYLLIUM.png",
+         "maintainer": "Ayush",
+         "buildDate": "01 Feb 2024"
       },
       {
          "id": 3,
-         "name": "Poco F3/Mi 11x 5G",
+         "name": "Poco F3",
          "codename": "alioth",
-         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/Alioth.png",
-         "maintainer": "Nerd",
-         "buildDate": "29 Sept 2023"
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/ALIOTH.png",
+         "maintainer": "PAIN and Sukh",
+         "buildDate": "01 Feb 2024"
       },
       {
          "id": 4,
-         "name": "OnePlus 5T",
-         "codename": "fajita",
-         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/redminote10pro.png",
-         "maintainer": "Nerd",
-         "buildDate": "29 Sept 2023"
+         "name": "Redmi Note 7 Pro",
+         "codename": "violet",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/VIOLET.png",
+         "maintainer": "PAIN and Asad",
+         "buildDate": "01 Feb 2024"
+      },
+
+      {
+         "id": 5,
+         "name": "Poco F4",
+         "codename": "munch",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/MUNCH.png",
+         "maintainer": "Sukh and Asad",
+         "buildDate": "01 Feb 2024"
+      },
+
+      {
+         "id": 6,
+         "name": "Moto G32",
+         "codename": "devon",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/DEVON.png",
+         "maintainer": "Ayush",
+         "buildDate": "01 Feb 2024"
+      },
+
+      {
+         "id": 7,
+         "name": "Redmi Note 10 Pro",
+         "codename": "sweet",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/SWEET.png",
+         "maintainer": "Alen",
+         "buildDate": "01 Feb 2024"
+      },
+
+      {
+         "id": 8,
+         "name": "Redmi Note 10",
+         "codename": "mojito",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/MOJITO.png",
+         "maintainer": "Finn",
+         "buildDate": "01 Feb 2024"
+      },
+
+      {
+         "id": 9,
+         "name": "Poco M3",
+         "codename": "citrus",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/CITRUS.png",
+         "maintainer": "hac4us",
+         "buildDate": "01 Feb 2024"
+      },
+
+      {
+         "id": 10,
+         "name": "Redmi 9T",
+         "codename": "lime",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/LIME.png",
+         "maintainer": "hac4us",
+         "buildDate": "01 Feb 2024"
       }
+
    ]
 }
