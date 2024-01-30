@@ -5,7 +5,7 @@
          "name": "Poco F5",
          "codename": "marble",
          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/MARBLE.png",
-         "maintainer": "Prajwal and Nitish",
+         "maintainer": "Prajwal x Nitish",
          "buildDate": "01 Feb 2024"
       },
       {
@@ -21,7 +21,7 @@
          "name": "Poco F3",
          "codename": "alioth",
          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/ALIOTH.png",
-         "maintainer": "PAIN and Sukh",
+         "maintainer": "Pain x Sukh",
          "buildDate": "01 Feb 2024"
       },
       {
@@ -29,7 +29,7 @@
          "name": "Redmi Note 7 Pro",
          "codename": "violet",
          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/VIOLET.png",
-         "maintainer": "PAIN and Asad",
+         "maintainer": "Pain x Asad",
          "buildDate": "01 Feb 2024"
       },
 
@@ -38,7 +38,7 @@
          "name": "Poco F4",
          "codename": "munch",
          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/MUNCH.png",
-         "maintainer": "Sukh and Asad",
+         "maintainer": "Sukh x Asad",
          "buildDate": "01 Feb 2024"
       },
 
@@ -74,7 +74,7 @@
          "name": "Poco M3",
          "codename": "citrus",
          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/CITRUS.png",
-         "maintainer": "hac4us",
+         "maintainer": "Ash",
          "buildDate": "01 Feb 2024"
       },
 
@@ -83,7 +83,7 @@
          "name": "Redmi 9T",
          "codename": "lime",
          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/LIME.png",
-         "maintainer": "hac4us",
+         "maintainer": "Ash",
          "buildDate": "01 Feb 2024"
       }
 
