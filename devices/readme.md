@@ -38,3 +38,7 @@ Make sure the last added key-value or object does not end with a comma
 ```
 
 Make sure the last added key-value or object does not end with a comma
+
+## Regarding cl_branch.json:
+
+This is only meant to provide branchName value to changelog URL. Please only change it if the changelog repo contains a new branch (related to a new android release).
