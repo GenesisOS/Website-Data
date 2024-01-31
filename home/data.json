@@ -27,8 +27,23 @@
                "feature": "Up To Date Android Security Patch"
             }
          ],
-         "screenshotsUrl": "/",
-         "featuresList": "/"
+         "extras": [
+            {
+               "id": 1,
+               "title": "Full Feature List",
+               "link": "/"
+            },
+            {
+               "id": 2,
+               "title:": "More Screenshots",
+               "link": "/"
+            },
+            {
+               "id": 1,
+               "title": "Apply For Maintainership",
+               "link": "https://docs.google.com/forms/d/1Q45R2KmL8fsEH_5zENnxoW4VgcdcSwgG-EhZQi1AfaI/edit?pli=1&pli=1"
+            }
+         ]
       }
    }
 }
