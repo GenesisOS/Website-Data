@@ -1,0 +1,17 @@
+{
+   "response": [
+      {
+         "id": 1,
+         "name": "Redmi Note 10",
+         "codename": "mojito/sunny",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/SUNNY.png",
+         "maintainer": "Arefin",
+         "buildDate": "01 Feb 2024",
+         "oem": "Xiaomi",
+         "download": "https://www.pling.com/p/1916980/",
+         "supportGroup": "https://t.me/GenesisOSChat",
+         "donate": "https://t.me/AkatsukiProjects/9",
+         "olderBuilds": "https://sourceforge.net/projects/genesisos/files/UTOPIA/MOJITO/"
+      }
+   ]
+}
