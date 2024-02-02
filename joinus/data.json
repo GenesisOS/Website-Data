@@ -1,0 +1,23 @@
+{
+   "response": {
+      "device": [
+         "You must own the device.",
+         "Blind and untested builds aren't allowed.",
+         "You must have a good understanding of Git.",
+         "You must make your device sources publicly available, with proper authorship for each commit, and push them to our Devices Org.",
+         "You must create, maintain, and use an unofficial stable build for at least 7 days from the day of public release or have two unofficial builds before applying.",
+         "You must have SELinux enforcing and User Build in release builds.",
+         "You must not use Sepolicy Neverallow Flag, remove packages, KernelSU, or add additional features which are not available with the stock firmware of your device without proper approval from the team.",
+         "You must not remove or modify parts which are being shipped in the ROM source without notifying the team."
+      ],
+      "maintainer": [
+         "You must have proper human communication skills to get in touch with the team regarding anything.",
+         "You must not get involved in arguments, resort to insults, use hateful words, personal attacks on anyone, or spread negativity.",
+         "You must release a user build every month along with the release of the source update; else, you have to notify the team about it with a proper explanation. Failing to do so will result in a direct warning or kick without any prior notice."
+      ],
+      "note": [
+         "Team Akatsuki reserves the right to reject, ban, or kick any applicant if found guilty of cheating or breaking any rules without any prior notice.",
+         "Team Akatsuki also reserves the right to make exceptions or changes in the rules for special cases."
+      ]
+   }
+}
