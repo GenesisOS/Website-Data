@@ -63,9 +63,9 @@
       {
          "id": 8,
          "name": "Redmi Note 10",
-         "codename": "mojito",
-         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/MOJITO.png",
-         "maintainer": "Finn",
+         "codename": "sunny",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/SUNNY.png",
+         "maintainer": "Arefin",
          "buildDate": "01 Feb 2024"
       },
 
