@@ -5,11 +5,11 @@
          "name": "Poco F1",
          "codename": "beryllium",
          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/BERYLLIUM.png",
-         "maintainer": "Ayush",
-         "buildDate": "01 Feb 2024",
+         "maintainer": "Akshat",
+         "buildDate": "04 Feb 2024",
          "oem": "Xiaomi",
          "download": "https://www.pling.com/p/1918923/",
-         "supportGroup": "",
+         "supportGroup": "https://t.me/ak_builds_discussion",
          "donate": "https://t.me/AkatsukiProjects/9",
          "olderBuilds": "https://sourceforge.net/projects/genesisos/files/UTOPIA/BERYLLIUM/"
       }
