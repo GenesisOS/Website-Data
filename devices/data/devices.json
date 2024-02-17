@@ -47,7 +47,7 @@
          "name": "Moto G32",
          "codename": "devon",
          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/DEVON.png",
-         "maintainer": "Ayush",
+         "maintainer": "Ayush x José",
          "buildDate": "01 Feb 2024"
       },
 
@@ -85,7 +85,24 @@
          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/LIME.png",
          "maintainer": "Ash",
          "buildDate": "01 Feb 2024"
-      }
-
+      },
+      
+      {
+         "id": 11,
+         "name": "Moto G42",
+         "codename": "hawao",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/HAWAO.png",
+         "maintainer": "Ayush x José",
+         "buildDate": "01 Feb 2024"
+      },
+      
+      {
+         "id": 12,
+         "name": "Moto G52",
+         "codename": "rhode",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/RHODE.png",
+         "maintainer": "Ayush x José",
+         "buildDate": "01 Feb 2024"
+      },
    ]
 }
