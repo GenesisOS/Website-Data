@@ -1,17 +1,17 @@
 {
-   "response": [
-      {
-         "id": 1,
-         "name": "Moto G42",
-         "codename": "hawao",
-         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/HAWAO.png",
-         "maintainer": "Ayush x José",
-         "buildDate": "01 Feb 2024",
-         "oem": "Motorola",
-         "download": "https://www.pling.com/p/2130428/",
-         "supportGroup": "https://t.me/genesis_sm6225",
-         "donate": "https://t.me/AkatsukiProjects/9",
-         "olderBuilds": "https://sourceforge.net/projects/genesisos/files/UTOPIA/HAWAO/"
-      }
-   ]
+   "response": [
+      {
+         "id": 1,
+         "name": "Moto G42",
+         "codename": "hawao",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/HAWAO.png",
+         "maintainer": "Ayush x José",
+         "buildDate": "01 Feb 2024",
+         "oem": "Motorola",
+         "download": "https://www.pling.com/p/2130428/",
+         "supportGroup": "https://t.me/genesis_sm6225",
+         "donate": "https://t.me/AkatsukiProjects/9",
+         "olderBuilds": "https://sourceforge.net/projects/genesisos/files/UTOPIA/HAWAO/"
+      }
+   ]
 }
