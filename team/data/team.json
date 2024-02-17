@@ -111,6 +111,14 @@
          "gitUrl": "https://github.com/Legendleo90",
          "telegramUrl": "https://t.me/Legendleo90",
          "imageUrl": "https://avatars.githubusercontent.com/u/91002031?v=4"
+      },
+      {
+         "id": 15,
+         "name": "José",
+         "description": "Moto-SM6225 Maintainer",
+         "gitUrl": "https://www.github.com/josexda",
+         "telegramUrl": "https://t.me/josexda",
+         "imageUrl": "https://avatars.githubusercontent.com/u/141631280?v=4"
       }
    ]
 }
