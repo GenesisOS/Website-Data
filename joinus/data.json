@@ -5,7 +5,7 @@
          "Blind and untested builds aren't allowed.",
          "You must have a good understanding of Git.",
          "You must make your device sources publicly available, with proper authorship for each commit, and push them to our Devices Org.",
-         "You must create, maintain, and use an unofficial stable build for at least 7 days from the day of public release or have two unofficial builds before applying.",
+         "You must create, maintain, and use an Unofficial Stable User build for at least 7 days from the day of public release or have two unofficial builds before applying.",
          "You must have SELinux enforcing and User Build in release builds.",
          "You must not use Sepolicy Neverallow Flag, remove packages, KernelSU, or add additional features which are not available with the stock firmware of your device without proper approval from the team.",
          "You must not remove or modify parts which are being shipped in the ROM source without notifying the team."
