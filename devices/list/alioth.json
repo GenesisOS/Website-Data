@@ -5,11 +5,11 @@
          "name": "Poco F3/Mi 11x 5G",
          "codename": "alioth",
          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/ALIOTH.png",
-         "maintainer": "Sukh x Pain",
+         "maintainer": "Yoriscape x Pain",
          "buildDate": "01 Feb 2024",
          "oem": "Xiaomi",
          "download": "https://www.pling.com/p/1917153/",
-         "supportGroup": "https://t.me/GenesisOSChat",
+         "supportGroup": "https://t.me/GenesisOSKona",
          "donate": "https://t.me/AkatsukiProjects/9",
          "olderBuilds": "https://sourceforge.net/projects/genesisos/files/UTOPIA/ALIOTH/"
       }
