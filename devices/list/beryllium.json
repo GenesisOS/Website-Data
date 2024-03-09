@@ -5,6 +5,7 @@
          "name": "Poco F1",
          "codename": "beryllium",
          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/BERYLLIUM.png",
+         "isMaintained": true,
          "maintainer": "Akshat",
          "buildDate": "04 Feb 2024",
          "oem": "Poco",

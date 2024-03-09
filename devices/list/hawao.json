@@ -5,6 +5,7 @@
          "name": "Moto G42",
          "codename": "hawao",
          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/HAWAO.png",
+         "isMaintained": true,
          "maintainer": "Ayush x José",
          "buildDate": "01 Feb 2024",
          "oem": "Motorola",

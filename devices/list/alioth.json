@@ -5,6 +5,7 @@
          "name": "Poco F3/Mi 11x 5G",
          "codename": "alioth",
          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/ALIOTH.png",
+         "isMaintained": true,
          "maintainer": "Yoriscape x Pain",
          "buildDate": "01 Feb 2024",
          "oem": "Xiaomi",

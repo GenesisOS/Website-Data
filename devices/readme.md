@@ -28,6 +28,7 @@ Make sure the last added key-value or object does not end with a comma
 	"name": "Poco F3/Mi 11x 5G",
 	"codename": "alioth",
 	"imageUrl": "https://images.pling.com/img/00/00/68/21/39/1917153/poco-f3.jpg",
+	"isMaintained": true,
 	"maintainer": "Nerd",
 	"buildDate": "29 Sept 2023",
 	"oem": "Xiaomi",

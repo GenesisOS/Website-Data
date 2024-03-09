@@ -5,6 +5,7 @@
          "name": "Redmi Note 10",
          "codename": "sunny",
          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/SUNNY.png",
+         "isMaintained": true,
          "maintainer": "Arefin",
          "buildDate": "01 Feb 2024",
          "oem": "Xiaomi",
