@@ -10,6 +10,7 @@ Each of the device is written as an object. Consider using this template to add/
 	"name": "Redmi Note 10 Pro",
 	"codename": "sweet",
 	"imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/redminote10pro.png",
+	"isMaintained": true,
 	"maintainer": "Alen24",
 	"buildDate": "29 Sept 2023"
 }
