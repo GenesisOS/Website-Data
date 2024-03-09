@@ -7,6 +7,7 @@ Each of the team data is written as an object. Consider using this template to a
 	"id": 1, // increase the id number by 1 to last id value
 	"name": "Nerdfail",
 	"description": "QC x Core",
+	"isActive": true,
 	"gitUrl": "https://www.github.com/funeralfrog",
 	"telegramUrl": "https://telegram.me/nerdfail",
 	"imageUrl": "https://avatars.githubusercontent.com/u/65288620?v=4"
