@@ -134,6 +134,15 @@
          "gitUrl": "https://www.github.com/josexda",
          "telegramUrl": "https://t.me/josexda",
          "imageUrl": "https://avatars.githubusercontent.com/u/141631280?v=4"
+      },
+      {
+         "id": 16,
+         "name": "Penguin",
+         "description": "Gauguin Maintainer",
+         "isActive": true,
+         "gitUrl": "https://github.com/Penguin766/",
+         "telegramUrl": "https://t.me/penguin766",
+         "imageUrl": "https://avatars.githubusercontent.com/u/83493195?v=4"
       }
    ]
 }
