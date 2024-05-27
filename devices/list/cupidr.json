@@ -1,0 +1,18 @@
+{
+    "response": [
+       {
+          "id": 1,
+          "name": "Realme GT",
+          "codename": "cupidr",
+          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/CUPIDR.png",
+          "isMaintained": true,
+          "maintainer": "MNoxx74",
+          "buildDate": "01 Feb 2024",
+          "oem": "Realme",
+          "download": "https://www.pling.com/p/2158634/",
+          "supportGroup": "https://t.me/GenesisOSKona",
+          "donate": "https://t.me/AkatsukiProjects/9",
+          "olderBuilds": "https://sourceforge.net/projects/genesisos/files/UTOPIA/CUPIDR/"
+       }
+    ]
+ }
