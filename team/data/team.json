@@ -143,6 +143,15 @@
          "gitUrl": "https://github.com/Penguin766/",
          "telegramUrl": "https://t.me/penguin766",
          "imageUrl": "https://avatars.githubusercontent.com/u/83493195?v=4"
-      }
+      },
+      {
+         "id": 17,
+         "name": "MNoxx74",
+         "description": "Cupidr Maintainer",
+         "isActive": true,
+         "gitUrl": "https://github.com/MNoxx74",
+         "telegramUrl": "https://t.me/MNoxx74",
+         "imageUrl": "https://avatars.githubusercontent.com/u/81765576?v=4"
+      }      
    ]
 }
