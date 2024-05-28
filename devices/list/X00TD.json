@@ -1,0 +1,18 @@
+{
+    "response": [
+       {
+          "id": 1,
+          "name": "Asus Zenfone Max Pro M1",
+          "codename": "X00TD",
+          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/X00TD.png",
+          "isMaintained": true,
+          "maintainer": "SKetU-l",
+          "buildDate": "01 Feb 2024",
+          "oem": "Asus",
+          "download": "",
+          "supportGroup": "https://t.me/SKetUs_OT",
+          "donate": "https://t.me/AkatsukiProjects/9",
+          "olderBuilds": ""
+       }
+    ]
+ }
