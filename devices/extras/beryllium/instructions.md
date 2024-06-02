@@ -1,16 +1,16 @@
-Notes-
+**Notes-**
 
 -  [Recommended FW for lime »](https://t.me/Hac4us_Screenshots/342)
 -  [Recommended FW for citrus » ](https://t.me/Hac4us_Screenshots/341)
 -  Clean Flash Mandatory
 
-Prerequisite-
+**Prerequisite-**
 
 1. Boot
 2. Vendor_Boot
 3. ROM
 
-How To Flash-
+**How To Flash-**
 
 1. Reboot To Fastboot by pressing
 2. Vol Down + Power Button
