@@ -12,7 +12,7 @@
          "features": [
             {
                "id": 1,
-               "feature": "GenUI Utopia 1.0"
+               "feature": "GenUI Utopia 2.0"
             },
             {
                "id": 2,
@@ -31,7 +31,8 @@
             {
                "id": 1,
                "title": "Full Feature List",
-               "link": "https://github.com/GOS-Devices/ota/blob/utopia/source_changelog/source_changelog.txt"
+               "link": "https://github.com/GOS-Devices/ota/blob/utopia-2
+               0/source_changelog/source_changelog.txt"
             },
             {
                "id": 2,
