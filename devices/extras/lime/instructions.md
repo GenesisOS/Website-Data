@@ -1,5 +1,5 @@
 ### Notes  
-- Use Regional Latest FW
+- [Recommended FW for lime](https://t.me/Hac4us_Screenshots/342)
 - Clean Flash Mandatory
 
 ### Prerequisite

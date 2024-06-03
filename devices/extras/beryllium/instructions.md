@@ -1,44 +1,31 @@
-**Notes-**
+### Notes  
+- Clean Flash Mandatory
+- Use system_ext recovery
+- ROM is force encrypted by default
 
--  [Recommended FW for lime »](https://t.me/Hac4us_Screenshots/342)
--  [Recommended FW for citrus » ](https://t.me/Hac4us_Screenshots/341)
--  Clean Flash Mandatory
+### Prerequisite
+- Recovery
+- ROM
 
-**Prerequisite-**
+### How To Flash
+1. Reboot To Fastboot by pressing 
+>Vol Down + Power Button
 
-1. Boot
-2. Vendor_Boot
-3. ROM
+2. Now Open CMD or Terminal in Your PC and connect your phone via USB
+3. Now type 
+>fastboot flash recovery recovery*.img
 
-**How To Flash-**
+4. After Flashing now Reboot into Recovery by typing
+>fastboot reboot recovery
 
-1. Reboot To Fastboot by pressing
-2. Vol Down + Power Button
-3. Now Open CMD or Terminal in Your PC and connect your phone via USB
-4. Now type
+or by pressing
+>Volume Up + Power Button
 
-> fastboot flash boot boot.img
+5. After booting into Recovery click on Factory Reset and then do Format data or Factory reset
+6. Select Apply Update using Sideload
+7. Install the ROM by typing
+>adb sideload GenesisOS-Official*.zip
 
-5. Then Type
+8. Now Reboot to System
 
-> fastboot flash vendor_boot vendor_boot\*.img
-
-6.After Flashing now Reboot into Recovery by pressing
-
-> Volume Up + Power Button
-
-7. After booting into Recovery click on Factory Reset and then do Format data / Factory reset
-
-8. Select Apply Update using Sideload
-
-9. Install the ROM by typing
-
-> adb sideload GenesisOS-Official\*.zip
-
-10. After Sideload Press NO to
-
-11. Reboot To Recovery
-
-12. Now Reboot to System
-
-Note: \* Name varies from build to build
+**P.S: * Name varies from build to build**

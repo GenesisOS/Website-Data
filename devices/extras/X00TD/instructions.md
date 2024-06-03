@@ -1,6 +1,6 @@
 ### Notes  
-- Use Regional Latest FW
 - Clean Flash Mandatory
+- Use Genesis Recovery
 
 ### Prerequisite
 - Recovery
