@@ -92,15 +92,6 @@
       },
       {
          "id": 11,
-         "name": "Arefin",
-         "description": "Sunny Maintainer",
-         "isActive": true,
-         "gitUrl": "https://www.github.com/axsrog",
-         "telegramUrl": "https://telegram.me/asarefin",
-         "imageUrl": "https://avatars.githubusercontent.com/u/115349611?v=4"
-      },
-      {
-         "id": 12,
          "name": "Alen",
          "description": "Sweet Maintainer",
          "isActive": true,
@@ -109,7 +100,7 @@
          "imageUrl": "https://avatars.githubusercontent.com/u/118653809?v=4"
       },
       {
-         "id": 13,
+         "id": 12,
          "name": "Ash",
          "description": "Chime Maintainer",
          "isActive": true,
@@ -118,7 +109,7 @@
          "imageUrl": "https://avatars.githubusercontent.com/u/116029625?v=4"
       },
       {
-         "id": 14,
+         "id": 13,
          "name": "Akshat",
          "description": "Beryllium Maintainer",
          "isActive": true,
@@ -127,7 +118,7 @@
          "imageUrl": "https://avatars.githubusercontent.com/u/91002031?v=4"
       },
       {
-         "id": 15,
+         "id": 14,
          "name": "José",
          "description": "Moto-SM6225 Maintainer",
          "isActive": true,
@@ -136,7 +127,7 @@
          "imageUrl": "https://avatars.githubusercontent.com/u/141631280?v=4"
       },
       {
-         "id": 16,
+         "id": 15,
          "name": "Penguin",
          "description": "Gauguin Maintainer",
          "isActive": true,
@@ -145,7 +136,7 @@
          "imageUrl": "https://avatars.githubusercontent.com/u/83493195?v=4"
       },
       {
-         "id": 17,
+         "id": 16,
          "name": "MNoxx74",
          "description": "Cupidr Maintainer",
          "isActive": true,
