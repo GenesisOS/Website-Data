@@ -143,6 +143,15 @@
          "gitUrl": "https://github.com/MNoxx74",
          "telegramUrl": "https://t.me/MNoxx74",
          "imageUrl": "https://avatars.githubusercontent.com/u/81765576?v=4"
+      },
+      {
+         "id": 17,
+         "name": "Ritesh",
+         "description": "Miatoll Maintainer",
+         "isActive": true,
+         "gitUrl": "https://github.com/ULTIMATE-RITESH",
+         "telegramUrl": "https://t.me/RiteshSahany",
+         "imageUrl": "https://avatars.githubusercontent.com/u/108788599?v=4"
       }      
    ]
 }
