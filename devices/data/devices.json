@@ -116,15 +116,6 @@
          "isMaintained": true,
          "maintainer": "MNoxx74",
          "buildDate": "01 Feb 2024"
-      },
-      {
-         "id": 14,
-         "name": "Asus Zenfone Max Pro M1",
-         "codename": "X00TD",
-         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/X00TD.png",
-         "isMaintained": true,
-         "maintainer": "SKetU-l",
-         "buildDate": "01 Feb 2024"
       }
    ]
 }
