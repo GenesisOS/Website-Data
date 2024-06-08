@@ -1,7 +1,7 @@
 ### Notes
 - Use latest Regional FW
 - Use Genesis Recovery
-- Clean flash mandatory
+- OTA Pushed for Existing Users
 
 ### Prerequisite
 - Boot
