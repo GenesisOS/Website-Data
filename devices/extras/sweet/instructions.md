@@ -1,6 +1,7 @@
 ### Notes  
 - Use Regional Latest FW
-- Clean Flash Mandatory
+- OTA Pushed for Existing Users
+- Dirty Flashable but Clean Flash if you face any issues
 
 ### Prerequisite
 - Recovery
