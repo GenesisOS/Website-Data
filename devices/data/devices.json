@@ -125,6 +125,15 @@
          "isMaintained": true,
          "maintainer": "Ritesh",
          "buildDate": "01 Feb 2024"
+      },
+      {
+         "id": 15,
+         "name": "Nothing Phone 2",
+         "codename": "pong",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/PONG.png",
+         "isMaintained": true,
+         "maintainer": "MNoxx74",
+         "buildDate": "01 Feb 2024"
       }
    ]
 }

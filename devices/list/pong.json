@@ -1,0 +1,18 @@
+{
+    "response": [
+       {
+          "id": 1,
+          "name": "Nothing Phone 2",
+          "codename": "pong",
+          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/PONG.png",
+          "isMaintained": true,
+          "maintainer": "MNoxx74",
+          "buildDate": "01 Feb 2024",
+          "oem": "Nothing",
+          "download": "https://www.pling.com/p/2166153/",
+          "supportGroup": "https://t.me/genesis_mnoxx74",
+          "donate": "https://t.me/AkatsukiProjects/9",
+          "olderBuilds": "https://sourceforge.net/projects/genesisos/files/UTOPIA/PONG/"
+       }
+    ]
+ }
