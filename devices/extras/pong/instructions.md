@@ -6,6 +6,7 @@
 - Recovery
 - VendorBoot
 - Boot
+- Dtbo
 - ROM
 
 ### How To Flash
@@ -19,18 +20,22 @@
 4. Then
 >fastboot flash vendor_boot vendor_boot.img
 
-5. After that
->fastboot flash recovery recovery.img
+5. Next
+>fastboot flash dtbo dtbo.img
 
-6. After Flashing now Reboot into Recovery by pressing
+6. After that
+>fastboot flash recovery_a recovery.img
+fastboot flash recovery_b recovery.img
+
+7. After Flashing now Reboot into Recovery by pressing
 >Volume Up + Power Button
 
-7. After booting into Recovery click on Factory Reset and then do Format data / Factory reset
-8. Now Select Apply Update using Sideload
-9. Install the ROM by typing
+8. After booting into Recovery click on Factory Reset and then do Format data / Factory reset
+9. Now Select Apply Update using Sideload
+10. Install the ROM by typing
 >adb sideload GenesisOS-Official*.zip
 
-10. After Sideload Press NO to "Reboot To Recovery" popup
-11. Now Reboot to System
+11. After Sideload Press NO to "Reboot To Recovery" popup
+12. Now Reboot to System
 
 **P.S: * Name varies from build to build**
