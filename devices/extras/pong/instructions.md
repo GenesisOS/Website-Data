@@ -26,8 +26,11 @@
 6. After that
 >fastboot flash recovery recovery.img
 
-7. After Flashing now Reboot into Recovery by pressing
->Volume Up + Power Button
+7. After Flashing now Reboot into Recovery by
+>using Vol Up Button to navigate to Reboot to Recovery option
+
+or Type
+>fastboot reboot recovery
 
 8. After booting into Recovery click on Factory Reset and then do Format data / Factory reset
 9. Now Select Apply Update using Sideload
