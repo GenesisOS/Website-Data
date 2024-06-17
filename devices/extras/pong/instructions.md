@@ -25,7 +25,7 @@
 
 6. After that
 >fastboot flash recovery_a recovery.img
-fastboot flash recovery_b recovery.img
+>fastboot flash recovery_b recovery.img
 
 7. After Flashing now Reboot into Recovery by pressing
 >Volume Up + Power Button
