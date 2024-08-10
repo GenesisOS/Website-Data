@@ -1,0 +1,18 @@
+{
+   "response": [
+      {
+         "id": 1,
+         "name": "Moto G52",
+         "codename": "rhode",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/RHODE.png",
+         "isMaintained": true,
+         "maintainer": "José",
+         "buildDate": "01 Feb 2024",
+         "oem": "Motorola",
+         "download": "https://www.pling.com/p/2130429/",
+         "supportGroup": "https://t.me/genesis_sm6225",
+         "donate": "https://t.me/AkatsukiProjects/9",
+         "olderBuilds": "https://sourceforge.net/projects/genesisos/files/UTOPIA/RHODE/"
+      }
+   ]
+}

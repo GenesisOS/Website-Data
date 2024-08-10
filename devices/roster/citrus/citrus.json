@@ -1,0 +1,18 @@
+{
+   "response": [
+      {
+         "id": 1,
+         "name": "Poco M3",
+         "codename": "citrus",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/CITRUS.png",
+         "isMaintained": true,
+         "maintainer": "Ash",
+         "buildDate": "01 Feb 2024",
+         "oem": "Poco",
+         "download": "https://www.pling.com/p/2127033/",
+         "supportGroup": "https://t.me/ashhcafe",
+         "donate": "https://t.me/AkatsukiProjects/9",
+         "olderBuilds": "https://sourceforge.net/projects/genesisos/files/UTOPIA/CITRUS/"
+      }
+   ]
+}

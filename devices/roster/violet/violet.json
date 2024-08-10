@@ -1,0 +1,18 @@
+{
+   "response": [
+      {
+         "id": 1,
+         "name": "Redmi Note 7 Pro",
+         "codename": "violet",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/VIOLET.png",
+         "isMaintained": true,
+         "maintainer": "Pain",
+         "buildDate": "31 Jan 2024",
+         "oem": "Xiaomi",
+         "download": "https://www.pling.com/p/1913182/",
+         "supportGroup": "Https://t.me/GenesisOSChat",
+         "donate": "https://t.me/AkatsukiProjects/9",
+         "olderBuilds": "https://sourceforge.net/projects/genesisos/files/UTOPIA/VIOLET/"
+      }
+   ]
+}

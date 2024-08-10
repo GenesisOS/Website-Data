@@ -1,0 +1,18 @@
+{
+    "response": [
+       {
+          "id": 1,
+          "name": "Mi 10i/Mi 10T Lite",
+          "codename": "gauguin",
+          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/GAUGUIN.png",
+          "isMaintained": true,
+          "maintainer": "Penguin",
+          "buildDate": "01 Feb 2024",
+          "oem": "Xiaomi",
+          "download": "https://www.pling.com/p/1940786/",
+          "supportGroup": "https://t.me/GenesisOSChat",
+          "donate": "https://t.me/AkatsukiProjects/9",
+          "olderBuilds": "https://sourceforge.net/projects/genesisos/files/UTOPIA/GAUGUIN/"
+       }
+    ]
+ }

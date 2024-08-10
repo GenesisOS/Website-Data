@@ -1,0 +1,26 @@
+{
+  "Notes": [
+    "Genesis Recovery Recommended",
+    "Clean flash mandatory"
+  ],
+  "Prerequisite": [
+    "Recovery",
+    "VendorBoot",
+    "Boot",
+    "Dtbo",
+    "ROM"
+  ],
+  "HowToFlash": [
+    "Reboot To Fastboot by pressing Vol Down + Power Button",
+    "Now Open CMD or Terminal in Your PC and connect your phone via USB Now type: <pre>`fastboot flash boot boot.img`<pre>",
+    "Then type: <pre>`fastboot flash vendor_boot vendor_boot.img`</pre>",
+    "Next type: <pre>`fastboot flash dtbo dtbo.img`</pre>",
+    "After that:<pre>`fastboot flash recovery recovery.img`</pre>",
+    "After Flashing now Reboot into Recovery by using Vol Up Button to navigate to Reboot to Recovery option or Type <pre>`fastboot reboot recovery`</pre>",
+    "After booting into Recovery click on Factory Reset and then do Format data / Factory reset",
+    "Now Select Apply Update using Sideload",
+    "Install the ROM by typing <pre>`adb sideload GenesisOS-Official*.zip`</pre>",
+    "After Sideload Press NO to 'Reboot To Recovery' popup",
+    "Now Reboot to System"
+  ]
+}

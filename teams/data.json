@@ -1,0 +1,174 @@
+{
+    "team": [
+       {
+          "id": 1,
+          "name": "Nerdfail",
+          "designation": "QC Manager",
+          "description": "Genesis Member",
+          "isActive": true,
+          "gitUrl": "https://www.github.com/funeralfrog",
+          "telegramUrl": "https://telegram.me/nerdfail",
+          "imageUrl": "https://avatars.githubusercontent.com/u/65288620?v=4"
+       },
+       {
+          "id": 2,
+          "name": "Prajwal",
+          "designation": "Human Resources",
+          "description": "Genesis Member",
+          "isActive": true,
+          "gitUrl": "https://www.github.com/prajwal-walia",
+          "telegramUrl": "https://telegram.me/Wally_We5t",
+          "imageUrl": "https://avatars.githubusercontent.com/u/25847184?v=4"
+       },
+       {
+          "id": 3,
+          "name": "Baka Hokage",
+          "designation": "Source Maintainer",
+          "description": "Genesis Member",
+          "isActive": true,
+          "gitUrl": "https://www.github.com/baka-hokage",
+          "telegramUrl": "https://telegram.me/baka_hokage",
+          "imageUrl": "https://avatars.githubusercontent.com/u/100789392?v=4"
+       },
+       {
+          "id": 4,
+          "name": "Harshdeep",
+          "designation": "Backend Lead",
+          "description": "Genesis Member",
+          "isActive": true,
+          "gitUrl": "https://www.github.com/Iamkillua",
+          "telegramUrl": "https://telegram.me/harshdeeptom",
+          "imageUrl": "https://avatars.githubusercontent.com/u/58259377?v=4"
+       },
+       {
+          "id": 5,
+          "name": "Yash C.",
+          "designation": "PR Manager",
+          "description": "Genesis Member",
+          "isActive": true,
+          "gitUrl": "https://www.github.com/yaaasssshhhhh",
+          "telegramUrl": "https://telegram.me/boobbiieess",
+          "imageUrl": "https://avatars.githubusercontent.com/u/73985975?v=4"
+       },
+       {
+          "id": 6,
+          "name": "Yoriscape",
+          "designation": "AIO Manager",
+          "description": "Genesis Member",
+          "isActive": true,
+          "gitUrl": "https://www.github.com/yoriscape",
+          "telegramUrl": "https://telegram.me/Yoriscape",
+          "imageUrl": "https://avatars.githubusercontent.com/u/36034638?v=4"
+       },
+       {
+          "id": 7,
+          "name": "Pain",
+          "designation": "Designer",
+          "description": "Genesis Member",
+          "isActive": true,
+          "gitUrl": "https://www.github.com/Iam-PAIN",
+          "telegramUrl": "https://telegram.me/Iam_PAIN",
+          "imageUrl": "https://avatars.githubusercontent.com/u/53990049?v=4"
+       },
+       {
+          "id": 8,
+          "name": "Milind Goel",
+          "designation": "Web Dev",
+          "description": "Genesis Member",
+          "isActive": true,
+          "gitUrl": "https://www.github.com/milindgoel15",
+          "telegramUrl": "https://telegram.me/milindgoel15",
+          "imageUrl": "https://avatars.githubusercontent.com/u/45682747?v=4"
+       },
+       {
+          "id": 9,
+          "name": "RokuSenpai",
+          "designation": "Support Consultant",
+          "description": "Genesis Member",
+          "isActive": true,
+          "gitUrl": "https://github.com/rokusenpaii",
+          "telegramUrl": "https://t.me/rokusenpaii",
+          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/team/images/senpai.png"
+       },
+       {
+          "id": 10,
+          "name": "Asad",
+          "designation": "Backend Co-Lead",
+          "description": "Genesis Member",
+          "isActive": true,
+          "gitUrl": "https://www.github.com/Asad0786",
+          "telegramUrl": "https://telegram.me/Idkwhytff",
+          "imageUrl": "https://avatars.githubusercontent.com/u/45055527?v=4"
+       },
+       {
+          "id": 11,
+          "name": "Alen",
+          "designation": "Sweet Maintainer",
+          "description": "Genesis Member",
+          "isActive": true,
+          "gitUrl": "https://github.com/RaiMaru24",
+          "telegramUrl": "https://telegram.me/Alen2_4",
+          "imageUrl": "https://avatars.githubusercontent.com/u/118653809?v=4"
+       },
+       {
+          "id": 12,
+          "name": "Ash",
+          "designation": "Chime Maintainer",
+          "description": "Genesis Member",
+          "isActive": true,
+          "gitUrl": "https://www.github.com/hac4us06",
+          "telegramUrl": "https://telegram.me/hac4us",
+          "imageUrl": "https://avatars.githubusercontent.com/u/116029625?v=4"
+       },
+       {
+          "id": 13,
+          "name": "Akshat",
+          "designation": "Beryllium Maintainer",
+          "description": "Genesis Member",
+          "isActive": true,
+          "gitUrl": "https://github.com/Legendleo90",
+          "telegramUrl": "https://t.me/Legendleo90",
+          "imageUrl": "https://avatars.githubusercontent.com/u/91002031?v=4"
+       },
+       {
+          "id": 14,
+          "name": "José",
+          "designation": "Moto-SM6225 Maintainer",
+          "description": "Genesis Member",
+          "isActive": true,
+          "gitUrl": "https://www.github.com/josexda",
+          "telegramUrl": "https://t.me/josexda",
+          "imageUrl": "https://avatars.githubusercontent.com/u/141631280?v=4"
+       },
+       {
+          "id": 15,
+          "name": "Penguin",
+          "designation": "Gauguin Maintainer",
+          "description": "Genesis Member",
+          "isActive": true,
+          "gitUrl": "https://github.com/Penguin766/",
+          "telegramUrl": "https://t.me/penguin766",
+          "imageUrl": "https://avatars.githubusercontent.com/u/83493195?v=4"
+       },
+       {
+          "id": 16,
+          "name": "MNoxx74",
+          "designation": "Cupidr Maintainer",
+          "description": "Genesis Member",
+          "isActive": true,
+          "gitUrl": "https://github.com/MNoxx74",
+          "telegramUrl": "https://t.me/MNoxx74",
+          "imageUrl": "https://avatars.githubusercontent.com/u/81765576?v=4"
+       },
+       {
+          "id": 17,
+          "name": "Ritesh",
+          "designation": "Miatoll Maintainer",
+          "description": "Genesis Member",
+          "isActive": true,
+          "gitUrl": "https://github.com/ULTIMATE-RITESH",
+          "telegramUrl": "https://t.me/RiteshSahany",
+          "imageUrl": "https://avatars.githubusercontent.com/u/108788599?v=4"
+       }      
+    ]
+ }
