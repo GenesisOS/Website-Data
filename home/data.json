@@ -5,11 +5,23 @@
          "description": "GenesisOS is a custom ROM based on AOSP with nifty little Quality of Life features to enhance your daily driving experience.",
          "image": "https://github.com/GenesisOS/Website-Data/blob/v2/home/Hero.png?raw=true"
       },
-      "features": {
-         "title": "Google Apps",
-         "description": "Gives you the best experience of seamless data backup and restore. Enjoy the exclusive AI features from Google.",
-         "image": "https://github.com/GenesisOS/Website-Data/blob/v2/home/GApps.png?raw=true"
-      },
+      "features": [
+         {
+            "title": "Google Apps",
+            "description": "Gives you the best experience of seamless data backup and restore. Enjoy the exclusive AI features from Google.",
+            "image": "https://github.com/GenesisOS/Website-Data/blob/v2/home/GApps.png?raw=true"
+         },
+         {
+            "title": "Up To Date",
+            "description": "GenesisOS always ships with the latest AOSP security patch and android version so that your device doesn’t miss out the latest features from Android.",
+            "image": "https://github.com/GenesisOS/Website-Data/blob/v2/home/UpToDate.png?raw=true"
+         },
+         {
+            "title": "OTA Support",
+            "description": "Inbuilt updater helps your device get update on the fly. Just flash GenesisOS once and forget.",
+            "image": "https://github.com/GenesisOS/Website-Data/blob/v2/home/Updater.png?raw=true"
+         }
+      ],
       "screenshots": {
          "title": "BEYOND ORDINARY",
          "image": "https://github.com/GenesisOS/Website-Data/blob/v2/home/BeyondOrdinary.png?raw=true"
