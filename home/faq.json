@@ -1,0 +1,36 @@
+{
+   "response": [
+      {
+         "title": "About Us",
+         "description": "GenesisOS is a custom rom project by a group of enthusiasts named Akatsuki. We started this project back in 2022 with the name of ProtonPlus later we fully rebranded our project to streamline our branding. Our moto is “Less is more”."
+      },
+      {
+         "title": "Is this available for this “X” device?",
+         "description": "Please check our official device roster to verify if your device is officially supported or not. If you can't find it on our site please visit your device specific Telegram channel or XDA forum to check if there are any unofficial build available or not."
+      },
+      {
+         "title": "Can we flash Magisk or KSU on it?",
+         "description": "You're welcome to make any modifications you like to GenesisOS, but please note that we can't keep track of every Mod made within the custom ROM community. If you encounter any issues after making modifications, you'll need to handle them on your own."
+      },
+      {
+         "title": "Can you guys add this “X” feature?",
+         "description": "As a custom ROM project, we follow the principle of \"Less is More\". We include only the most essential features that are widely used by our user base. While it's unlikely that we'll add new features, we always welcome your feedback and suggestions in our Community Chat on Telegram."
+      },
+      {
+         "title": "I don't see my device on the official list, what should I do?",
+         "description": "If your device isn't listed among the official supported devices, you might want to check your device's community for an unofficial build. We can't provide builds for devices that don't have a designated maintainer. If you're keen to get GenesisOS on your device, consider reaching out to a developer or maintainer within your device community to build GenesisOS for you, or you could donate a device to one of our team members to potentially receive support."
+      },
+      {
+         "title": "This feature isn't working what should I do?",
+         "description": "As a project which has Stability as the main priority, we are sorry to hear that you're facing such a problem. Please report the issue ASAP in your device support group if it's device specific, if it's related to the Source then please report the issue on our Telegram Community Chat, we will make sure to fix it on the next update. Please include a Logcat while reporting any bug."
+      },
+      {
+         "title": "I am new to Custom ROMs, how do I install it?",
+         "description": "If you're new to this, we strongly recommend starting by backing up all your data from your internal storage to a secure location, such as your PC or the cloud. Once you've done that, simply follow the installation instructions provided on your device's specific download page. If you encounter any issues, feel free to seek help in your device's support group."
+      },
+      {
+         "title": "I don't like GApps, do you guys have vanilla build?",
+         "description": "One of our top priorities is to provide a \"flash and forget\" experience for our users. While we recognize the importance of Vanilla builds, we know that many of our primary users rely on GApps for their daily needs and appreciate the exclusive features our project offers. To ensure the best possible experience, we will always provide a GApps only build. This way, users can flash the ROM once and enjoy everything our project has to offer without needing to take additional steps."
+      }
+   ]
+}

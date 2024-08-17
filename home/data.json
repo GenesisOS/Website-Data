@@ -1,0 +1,18 @@
+{
+   "response": {
+      "hero": {
+         "title": "Fast Fluid Stable",
+         "description": "GenesisOS is a custom ROM based on AOSP with nifty little Quality of Life features to enhance your daily driving experience.",
+         "image": "https://github.com/GenesisOS/Website-Data/blob/v2/home/Hero.png?raw=true"
+      },
+      "features": {
+         "title": "Google Apps",
+         "description": "Gives you the best experience of seamless data backup and restore. Enjoy the exclusive AI features from Google.",
+         "image": "https://github.com/GenesisOS/Website-Data/blob/v2/home/GApps.png?raw=true"
+      },
+      "screenshots": {
+         "title": "BEYOND ORDINARY",
+         "image": "https://github.com/GenesisOS/Website-Data/blob/v2/home/BeyondOrdinary.png?raw=true"
+      }
+   }
+}
