@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Redmi Note 9 5G / Mi 10T Lite / Mi 10i
+Device maintainer: Penguin
+
+=====  2 June 2024 =====
+
+* Initial release

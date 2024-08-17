@@ -1,0 +1,32 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Poco F4
+Device maintainer: Yoriscape
+
+=====  06 June 2024 =====
+
+* Fixed touch issues ingames while using Touchfeature
+* Switched to N0kernel with uclamp changed and task profiler
+* Imported MGLRU from aosp source
+* Fixed unusual temprature rise while using device
+* Trimmed boot times(faster booting duration)
+* Trimmed useless post boot inits (Improves device smoothneess right after booting into os)
+
+=====  05 June 2024 =====
+
+* Android 14 QPR2 Update
+* Rebased trees over lineageos trees
+* Fixed alot of sepolicy issues
+* Fixed Mithermald denials causing slow charging speeds
+* Switched to Perf+ kernel with device specefic fixes
+* Added Latest leica camera
+* Updated Blobs from HyperOS V1.0.1.0ULMMIXM
+* Fixes to device getting throttled causes janks and jitters randomly
+* Disabled IMS debugging
+* Added Latest oplus dolby + libs from Hyperos
+* Added Touchfeature mode
+* More underhood changes
+
+=====  28 February 2024 =====
+
+* Initial release

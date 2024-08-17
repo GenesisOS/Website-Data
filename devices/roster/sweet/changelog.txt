@@ -1,0 +1,21 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Redmi Note 10 Pro/Pro Max
+Device maintainer: Alen
+
+===== 12 June 2024 =====
+
+* Fixed MiuiCamera crashing
+* Updated Graphics blob to reduce QS Lag
+* Switched to SkiaGL For UI smoothness
+
+=====  09 June 2024 =====
+
+* Switched to common libqti-perfd-client and power-libperfmgr
+* Dropped Dolby 
+* Added JamesDSP
+* Fixed 60hz booting issue
+
+=====  15 February 2024 =====
+
+* Initial release

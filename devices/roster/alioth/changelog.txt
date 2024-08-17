@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Poco F3/ Mi 11x
+Device maintainer: Yoriscape x Pain
+
+=====  28 February 2024 =====
+
+* Initial release

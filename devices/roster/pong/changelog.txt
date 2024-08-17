@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Nothing Phone 2
+Device maintainer: MNoxx74
+
+=====  17 June 2024 =====
+
+* Initial release

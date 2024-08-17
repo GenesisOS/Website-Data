@@ -1,0 +1,22 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Poco F1
+Device maintainer: Akshat
+
+=====  02 June 2024 =====
+
+* Switched to Etude kernel
+* Switched back to system_ext partition
+* Fixed VP9 playback issues
+* Added props to improve battery backup
+* Addressed sepolicy denials
+
+=====  22 February 2024 =====
+
+* Added MiCam
+* Fixup powerhal crashes on logs
+* Silence OpenGL renderer logspams
+
+=====  04 February 2024 =====
+
+* Initial release

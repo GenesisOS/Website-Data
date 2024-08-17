@@ -1,0 +1,13 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Moto G32
+Device maintainer: José
+
+=====  5 June 2024 =====
+
+* Fixed low microphone frequency
+* Upstreamed kernel version to 4.19.312
+
+=====  14 February 2024 =====
+
+* Initial release

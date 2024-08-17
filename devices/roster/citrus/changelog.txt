@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Poco M3
+Device maintainer: Ash
+
+=====  25 February 2024 =====
+
+* Initial release

@@ -1,0 +1,14 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Moto G42
+Device maintainer: José
+
+=====  5 June 2024 =====
+
+* Fixed low microphone frequency
+* Fixed issues with NFC
+* Upstreamed kernel version to 4.19.312
+
+=====  15 February 2024 =====
+
+* Initial release
