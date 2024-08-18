@@ -1,124 +1,110 @@
 {
-    "devices": [
-       {
-          "id": 1,
-          "name": "Poco F5",
-          "codename": "marble",
-          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/roster/marble/marble.png",
-          "isMaintained": true,
-          "maintainer": "Prajwal x Nitish"
-       },
-       {
-          "id": 2,
-          "name": "Poco F1",
-          "codename": "beryllium",
-          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/roster/beryllium/beryllium.png",
-          "isMaintained": true,
-          "maintainer": "Ayush"
-       },
-       {
-          "id": 3,
-          "name": "Poco F3",
-          "codename": "alioth",
-          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/roster/alioth/alioth.png",
-          "isMaintained": true,
-          "maintainer": "Sukh x Pain"
-       },
-       {
-          "id": 4,
-          "name": "Redmi Note 7 Pro",
-          "codename": "violet",
-          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/roster/violet/violet.png",
-          "isMaintained": true,
-          "maintainer": "Pain"
-       },
-       {
-          "id": 5,
-          "name": "Poco F4",
-          "codename": "munch",
-          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/roster/munch/munch.png",
-          "isMaintained": false,
-          "maintainer": "Yoriscape"
-       },
-       {
-          "id": 6,
-          "name": "Moto G32",
-          "codename": "devon",
-          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/roster/devon/devon.png",
-          "isMaintained": true,
-          "maintainer": "José"
-       },
-       {
-          "id": 7,
-          "name": "Redmi Note 10 Pro",
-          "codename": "sweet",
-          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/roster/sweet/sweet.png",
-          "isMaintained": true,
-          "maintainer": "Alen"
-       },
-       {
-          "id": 8,
-          "name": "Poco M3",
-          "codename": "citrus",
-          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/roster/citrus/citrus.png",
-          "isMaintained": true,
-          "maintainer": "Ash"
-       },
-       {
-          "id": 9,
-          "name": "Redmi 9T",
-          "codename": "lime",
-          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/roster/lime/lime.png",
-          "isMaintained": true,
-          "maintainer": "Ash"
-       },
-       {
-          "id": 10,
-          "name": "Moto G42",
-          "codename": "hawao",
-          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/roster/hawao/hawao.png",
-          "isMaintained": true,
-          "maintainer": "José"
-       },
-       {
-          "id": 11,
-          "name": "Moto G52",
-          "codename": "rhode",
-          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/roster/rhode/rhode.png",
-          "isMaintained": true,
-          "maintainer": "José"
-       },
-       {
-          "id": 12,
-          "name": "Mi 10i",
-          "codename": "gauguin",
-          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/roster/gauguin/gauguin.png",
-          "isMaintained": true,
-          "maintainer": "Penguin"
-       },
-       {
-          "id": 13,
-          "name": "Realme GT",
-          "codename": "cupidr",
-          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/roster/cupidr/cupidr.png",
-          "isMaintained": true,
-          "maintainer": "MNoxx74"
-       },
-       {
-          "id": 14,
-          "name": "Poco M2 Pro",
-          "codename": "miatoll",
-          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/roster/miatoll/miatoll.png",
-          "isMaintained": true,
-          "maintainer": "Ritesh"
-       },
-       {
-          "id": 15,
-          "name": "Nothing Phone 2",
-          "codename": "pong",
-          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/roster/pong/pong.png",
-          "isMaintained": true,
-          "maintainer": "MNoxx74"
-       }
-    ]
- }
+   "devices": [
+      {
+         "id": 1,
+         "name": "Poco F5",
+         "codename": "marble",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/marble/marble.png",
+         "maintainer": "Prajwal x Nitish"
+      },
+      {
+         "id": 2,
+         "name": "Poco F1",
+         "codename": "beryllium",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/beryllium/beryllium.png",
+         "maintainer": "Ayush"
+      },
+      {
+         "id": 3,
+         "name": "Poco F3",
+         "codename": "alioth",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/alioth/alioth.png",
+         "maintainer": "Sukh x Pain"
+      },
+      {
+         "id": 4,
+         "name": "Redmi Note 7 Pro",
+         "codename": "violet",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/violet/violet.png",
+         "maintainer": "Pain"
+      },
+      {
+         "id": 5,
+         "name": "Poco F4",
+         "codename": "munch",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/munch/munch.png",
+         "isMaintained": false,
+         "maintainer": "Yoriscape"
+      },
+      {
+         "id": 6,
+         "name": "Moto G32",
+         "codename": "devon",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/devon/devon.png",
+         "maintainer": "José"
+      },
+      {
+         "id": 7,
+         "name": "Redmi Note 10 Pro",
+         "codename": "sweet",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/sweet/sweet.png",
+         "maintainer": "Alen"
+      },
+      {
+         "id": 8,
+         "name": "Poco M3",
+         "codename": "citrus",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/citrus/citrus.png",
+         "maintainer": "Ash"
+      },
+      {
+         "id": 9,
+         "name": "Redmi 9T",
+         "codename": "lime",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/lime/lime.png",
+         "maintainer": "Ash"
+      },
+      {
+         "id": 10,
+         "name": "Moto G42",
+         "codename": "hawao",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/hawao/hawao.png",
+         "maintainer": "José"
+      },
+      {
+         "id": 11,
+         "name": "Moto G52",
+         "codename": "rhode",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/rhode/rhode.png",
+         "maintainer": "José"
+      },
+      {
+         "id": 12,
+         "name": "Mi 10i",
+         "codename": "gauguin",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/gauguin/gauguin.png",
+         "maintainer": "Penguin"
+      },
+      {
+         "id": 13,
+         "name": "Realme GT",
+         "codename": "cupidr",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/cupidr/cupidr.png",
+         "maintainer": "MNoxx74"
+      },
+      {
+         "id": 14,
+         "name": "Poco M2 Pro",
+         "codename": "miatoll",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/miatoll/miatoll.png",
+         "maintainer": "Ritesh"
+      },
+      {
+         "id": 15,
+         "name": "Nothing Phone 2",
+         "codename": "pong",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/pong/pong.png",
+         "maintainer": "MNoxx74"
+      }
+   ]
+}
