@@ -4,7 +4,7 @@
          "id": 1,
          "name": "Redmi Note 7 Pro",
          "codename": "violet",
-         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/VIOLET.png",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/violet/violet.png",
          "isMaintained": true,
          "maintainer": "Pain",
          "buildDate": "31 Jan 2024",

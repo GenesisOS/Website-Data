@@ -4,7 +4,7 @@
          "id": 1,
          "name": "Poco M3",
          "codename": "citrus",
-         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/CITRUS.png",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/citrus/citrus.png",
          "isMaintained": true,
          "maintainer": "Ash",
          "buildDate": "01 Feb 2024",

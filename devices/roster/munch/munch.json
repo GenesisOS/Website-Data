@@ -4,7 +4,7 @@
          "id": 1,
          "name": "Poco F4",
          "codename": "munch",
-         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/MUNCH.png",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/munch/munch.png",
          "isMaintained": true,
          "maintainer": "Yoriscape",
          "buildDate": "01 Feb 2024",

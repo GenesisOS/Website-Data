@@ -1,18 +1,18 @@
 {
-    "response": [
-       {
-          "id": 1,
-          "name": "Poco M2 Pro/Redmi Note 9 Pro/ Redmi Note 9S",
-          "codename": "miatoll",
-          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/MIATOLL.png",
-          "isMaintained": true,
-          "maintainer": "Ritesh",
-          "buildDate": "01 Feb 2024",
-          "oem": "Xiaomi",
-          "download": "https://www.pling.com/p/2162551/",
-          "supportGroup": "https://t.me/RiteshChat",
-          "donate": "https://t.me/AkatsukiProjects/9",
-          "olderBuilds": "https://sourceforge.net/projects/genesisos/files/UTOPIA/MIATOLL/"
-       }
-    ]
- }
+   "response": [
+      {
+         "id": 1,
+         "name": "Poco M2 Pro/Redmi Note 9 Pro/ Redmi Note 9S",
+         "codename": "miatoll",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/miatoll/miatoll.png",
+         "isMaintained": true,
+         "maintainer": "Ritesh",
+         "buildDate": "01 Feb 2024",
+         "oem": "Xiaomi",
+         "download": "https://www.pling.com/p/2162551/",
+         "supportGroup": "https://t.me/RiteshChat",
+         "donate": "https://t.me/AkatsukiProjects/9",
+         "olderBuilds": "https://sourceforge.net/projects/genesisos/files/UTOPIA/MIATOLL/"
+      }
+   ]
+}

@@ -4,7 +4,7 @@
          "id": 1,
          "name": "Moto G42",
          "codename": "hawao",
-         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/HAWAO.png",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/hawao/hawao.png",
          "isMaintained": true,
          "maintainer": "José",
          "buildDate": "01 Feb 2024",

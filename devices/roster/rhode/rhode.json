@@ -4,7 +4,7 @@
          "id": 1,
          "name": "Moto G52",
          "codename": "rhode",
-         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/RHODE.png",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/rhode/rhode.png",
          "isMaintained": true,
          "maintainer": "José",
          "buildDate": "01 Feb 2024",

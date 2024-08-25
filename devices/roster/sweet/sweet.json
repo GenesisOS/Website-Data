@@ -4,7 +4,7 @@
          "id": 1,
          "name": "Redmi Note 10 Pro",
          "codename": "sweet",
-         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/main/devices/images/SWEET.png",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/sweet/sweet.png",
          "isMaintained": true,
          "maintainer": "Alen",
          "buildDate": "01 Feb 2024",
