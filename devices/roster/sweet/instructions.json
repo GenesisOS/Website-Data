@@ -12,11 +12,11 @@
     "HowToFlash": [
       "Reboot to Fastboot by pressing Vol Down + Power Button",
       "Open CMD or Terminal on your PC and connect your phone via USB",
-      "Type the following command: <pre>`fastboot flash recovery recovery*.img`</pre>",
-      "After Flashing now Reboot into Recovery by or by pressing or Volume Up + Power Button typing: <pre>`fastboot reboot recovery`</pre>",
+      "Type the following command: <pre>fastboot flash recovery recovery*.img</pre>",
+      "After Flashing now Reboot into Recovery by or by pressing or Volume Up + Power Button typing: <pre>fastboot reboot recovery</pre>",
       "After booting into Recovery click on Factory Reset and then do Format data or Factory reset",
       "Select Apply Update using Sideload",
-      "Install the ROM by typing: <pre>`adb sideload GenesisOS-Official*.zip`</pre>",
+      "Install the ROM by typing: <pre>adb sideload GenesisOS-Official*.zip</pre>",
       "Now Reboot to System"
     ]
   }

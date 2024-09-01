@@ -12,8 +12,8 @@
     "HowToFlash": [
       "Reboot to Fastboot by pressing Vol Down + Power Button",
       "Open CMD or Terminal on your PC and connect your phone via USB",
-      "Type the following command: <pre>`fastboot flash boot boot.img`</pre>",
-      "Type the following command: <pre>`fastboot flash vendor_boot vendor_boot*.img`</pre>",
+      "Type the following command: <pre fastboot flash boot boot.img</pre>",
+      "Type the following command: <pre fastboot flash vendor_boot vendor_boot*.img</pre>",
       "After flashing, reboot into Recovery by pressing Volume Up + Power Button",
       "After booting into Recovery, click on Factory Reset and then do Format data / Factory reset",
       "Select Apply Update using Sideload",
