@@ -105,6 +105,13 @@
          "codename": "pong",
          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/pong/pong.png",
          "maintainer": "MNoxx74"
+      },
+      {
+         "id": 16,
+         "name": "Poco X6",
+         "codename": "garnet",
+         "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/garnet/garnet.png",
+         "maintainer": "Ayush"
       }
    ]
 }
