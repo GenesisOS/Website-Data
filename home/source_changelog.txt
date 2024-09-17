@@ -1,4 +1,27 @@
-===== 25 May 2024 =====
+**17 September 2024**
+
+* September Security Patch
+* Initial QPR3 release
+* Brought up our custom settings Beyond Ordinary
+* Added toggle for GamesProp and Google Photos spoof
+* Added toggle for Google Play Integrity spoof
+* Added support for per-app volume
+* Added minimal support for Richtap vibrations
+* Added support for device alert sliders
+* Added support to remove SAF restrictions
+* Added support to hide ADB and developer setting status
+* Added support to make all user apps cloneable
+* Added support for less boring heads up option
+* Enabled and tuned Split notification shade
+* Added support to disable QS on secure lockscreen
+* Added support to disable power menu on secure lockscreen
+* Added support for battery style customizations
+* Added support for Charging control
+* Added support to disable private DNS when VPN is on
+* Added support for Lockscreen Charging Info
+* Added private DNS providers
+
+**25 May 2024**
 
 * May Security Patch
 * Initial QPR2 release
@@ -18,17 +41,17 @@
 * Added option to switch between 4G and LTE icon
 * Added support for Phone Link
 * Enabled cloned apps page
-* Added option for icon shapes, icon packs and fonts Customization
+* Added option for icon shapes, icon packs, and fonts customization
 
-===== 14 February 2024 =====
+**14 February 2024**
 
 * February Security Patch
 * Added support for expanded volume dialog
 * Added AiWallpapers
 * Added our own Bootanimation
-* Fixed a bug where adb wasn't working on recovery for some devices
+* Fixed a bug where ADB wasn't working on recovery for some devices
 
-===== 31 January 2024 =====
+**31 January 2024**
 
 * January Security Patch
 * Added simple RGB color balance transform
