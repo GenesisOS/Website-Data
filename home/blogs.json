@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "date": "2024-09-17",
+    "title": "Exploring New Technologies in 2024",
+    "author": "Jane Doe",
+    "imageUrl": "https://example.com/images/tech2024.jpg"
+  },
+  {
+    "id": 2,
+    "date": "2024-09-15",
+    "title": "The Rise of AI in Everyday Life",
+    "author": "John Smith",
+    "imageUrl": "https://example.com/images/ai2024.jpg"
+  },
+  {
+    "id": 3,
+    "date": "2024-09-10",
+    "title": "How to Build a Sustainable Future",
+    "author": "Alice Johnson",
+    "imageUrl": "https://example.com/images/sustainability2024.jpg"
+  }
+]
