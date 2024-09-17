@@ -2,31 +2,59 @@
    "response": [
       {
          "id": 1,
-         "url": "https://github.com/GenesisOS/Website-Data/blob/v2/screenshots/About_phone.png?raw=true"
+         "url": "https://github.com/GenesisOS/Website-Data/blob/v2/screenshots/one.jpg?raw=true"
       },
       {
          "id": 2,
-         "url": "https://github.com/GenesisOS/Website-Data/blob/v2/screenshots/About_phone1.png?raw=true"
+         "url": "https://github.com/GenesisOS/Website-Data/blob/v2/screenshots/two.jpg?raw=true"
       },
       {
          "id": 3,
-         "url": "https://github.com/GenesisOS/Website-Data/blob/v2/screenshots/About_phone2.png?raw=true"
+         "url": "https://github.com/GenesisOS/Website-Data/blob/v2/screenshots/three.jpg?raw=true"
       },
       {
          "id": 4,
-         "url": "https://github.com/GenesisOS/Website-Data/blob/v2/screenshots/About_phone3.png?raw=true"
+         "url": "https://github.com/GenesisOS/Website-Data/blob/v2/screenshots/four.jpg?raw=true"
       },
       {
          "id": 5,
-         "url": "https://github.com/GenesisOS/Website-Data/blob/v2/screenshots/About_phone4.png?raw=true"
+         "url": "https://github.com/GenesisOS/Website-Data/blob/v2/screenshots/five.jpg?raw=true"
       },
       {
          "id": 6,
-         "url": "https://github.com/GenesisOS/Website-Data/blob/v2/screenshots/About_phone5.png?raw=true"
+         "url": "https://github.com/GenesisOS/Website-Data/blob/v2/screenshots/six.jpg?raw=true"
       },
       {
-         "id": 6,
-         "url": "https://github.com/GenesisOS/Website-Data/blob/v2/screenshots/About_phone6.png?raw=true"
+         "id": 7,
+         "url": "https://github.com/GenesisOS/Website-Data/blob/v2/screenshots/seven.jpg?raw=true"
+      },
+      {
+         "id": 8,
+         "url": "https://github.com/GenesisOS/Website-Data/blob/v2/screenshots/eight.jpg?raw=true"
+      },
+      {
+         "id": 9,
+         "url": "https://github.com/GenesisOS/Website-Data/blob/v2/screenshots/nine.jpg?raw=true"
+      },
+      {
+         "id": 10,
+         "url": "https://github.com/GenesisOS/Website-Data/blob/v2/screenshots/ten.jpg?raw=true"
+      },
+      {
+         "id": 11,
+         "url": "https://github.com/GenesisOS/Website-Data/blob/v2/screenshots/eleven.jpg?raw=true"
+      },
+      {
+         "id": 12,
+         "url": "https://github.com/GenesisOS/Website-Data/blob/v2/screenshots/twelve.jpg?raw=true"
+      },
+      {
+         "id": 13,
+         "url": "https://github.com/GenesisOS/Website-Data/blob/v2/screenshots/thirteen.jpg?raw=true"
+      },
+      {
+         "id": 14,
+         "url": "https://github.com/GenesisOS/Website-Data/blob/v2/screenshots/fourteen.jpg?raw=true"
       }
    ]
 }
