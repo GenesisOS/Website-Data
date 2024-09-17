@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "date": "2024-09-17",
+    "title": "Exploring New Technologies in 2024",
+    "author": "Jane Doe",
+    "imageUrl": "https://github.com/GenesisOS/Website-Data/blob/v2/screenshots/two.jpg?raw=true"
+  },
+  {
+    "id": 2,
+    "date": "2024-09-15",
+    "title": "The Rise of AI in Everyday Life",
+    "author": "John Smith",
+    "imageUrl": "https://github.com/GenesisOS/Website-Data/blob/v2/screenshots/two.jpg?raw=true"
+  },
+  {
+    "id": 3,
+    "date": "2024-09-10",
+    "title": "How to Build a Sustainable Future",
+    "author": "Alice Johnson",
+    "imageUrl": "https://github.com/GenesisOS/Website-Data/blob/v2/screenshots/two.jpg?raw=true"
+  }
+]
