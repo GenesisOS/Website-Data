@@ -5,7 +5,7 @@
          "name": "Poco F4",
          "codename": "munch",
          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/munch/munch.png",
-         "isMaintained": true,
+         "isMaintained": false,
          "maintainer": "Yoriscape",
          "buildDate": "01 Feb 2024",
          "oem": "Poco",
