@@ -51,16 +51,6 @@
           "imageUrl": "https://avatars.githubusercontent.com/u/73985975"
        },
        {
-          "id": 6,
-          "name": "Yoriscape",
-          "designation": "Support Consultant",
-          "description": "Alioth & Munch Maintainer",
-          "isActive": true,
-          "gitUrl": "https://www.github.com/yoriscape",
-          "telegramUrl": "https://telegram.me/Yoriscape",
-          "imageUrl": "https://avatars.githubusercontent.com/u/36034638"
-       },
-       {
           "id": 7,
           "name": "Pain",
           "designation": "Designer & Manager",
