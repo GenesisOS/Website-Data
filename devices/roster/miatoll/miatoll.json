@@ -7,12 +7,12 @@
          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/miatoll/miatoll.png",
          "isMaintained": true,
          "maintainer": "Ritesh",
-         "buildDate": "01 Feb 2024",
+         "buildDate": "21 September 2024",
          "oem": "Xiaomi",
          "download": "https://www.pling.com/p/2162551/",
          "supportGroup": "https://t.me/RiteshChat",
          "donate": "https://t.me/AkatsukiProjects/9",
-         "olderBuilds": "https://sourceforge.net/projects/genesisos/files/UTOPIA/MIATOLL/"
+         "olderBuilds": "https://gofile.io/d/5OIAmE"
       }
    ]
 }

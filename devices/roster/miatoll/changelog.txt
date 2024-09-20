@@ -1,8 +1,70 @@
-Highlights & Device Specific Changes:
-Build type: Stable
-Device: POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite (miatoll)
-Device maintainer: RiteshSahany
+**20 September 2024**
 
-=====  06 June 2024 =====
+* Add moto dolby support
+* Improved statusbar padding
+* Enabled VoWifi in airplane mode
+* Moved to QTI health AIDL service
+* Minor performance tuning
+* Removed unnecessary QTI logkit directories
+* Disabled phantom process monitoring
+* Disabled QCOM system daemon
+* Cleaned up unused functions on rootdir
+* Switched to new AIDL IR service
+* Redefined bluetooth a2dp offload capabilities
+* Updated GPU idle timeout to 64ms
+* Fixed PowerOffAlarm
+* Clean-up init.target.rc, init.qcom.rc & early boot script (More Optimization)
+* Switched to AVC 3.1 for screen recording
+* Configured unsignaled buffer latch
+* Updated Adreno blobs to v757
+* Enabled the pre-rendering feature
+* Disabled VSync for CPU rendered apps
+* Fixed screen record lag
+* Fully switched to jemalloc
+* Dropped camera provider shims
+* Disabled stereo support for voip
+* Dropped 24 and 32 bit recording support
+* Removed wait_for_keymaster and all references
+* Updated Redmi Note 10 Lite fingerprint
+* Removed unused persist.bluetooth.a2dp_offload.cap property
+* Setup permissions for PowerHAL
+* Fix low mic volume on voip
+* Added missing ACDB IDs
+* Used QCOM implementation for audio effects
+* fixup audio io policy voip_rx flags
+* Remove hw_acc effect
+* Removed TelePhony Rx from primary input
+* Updated audio_io_policy for VoIP
+* Offload 24 bits playback supports mp3/aac format
+* Correct routing order for voip output
+* Replaced the HIDL with AIDL for android.hardware.memtrack
+* Added new QCRIL database
+* Removed wigig components
+* Set permissions to rawdump node
+* Set subsystem restart level with ssr_setup util
+* Switched to AOSP encryption
+* Disabled continuous transaction tracing on all build types
+* Enforced fstab suffix to qcom
+* Disabled slow blur effect to avoid laggish blur effect
+* Disabled alpha compositing in WM
+* Disabled SF composition prediction model
+* Improved post_boot tuning for performance
+* Allowed all filesystems for USB-OTG
+* Simplified configure_zram_parameters
+* Enabled conservative pl for atoll
+* Tune input boost parameters
+* Increase max bss count for wifi
+* Smarter decisions on whether to use a 2- or 5Ghz AP
+* Do not balance msm_drm and kgsl-3d0 IRQs
+* Set swiotlb to default size
+* Switched to QTI Memtrack AIDL HAL
+* Shim libwvhidl with libcrypto_shim
+* Switched to prebuilt gps stack
+* Enabled C2 Codec
+* Cleaned up useless log spams
+* Silenced ACDB-LOADER spam
+* Allowed skipping of nativeDetachImage
+
+**06 June 2024**
 
 * Initial release
