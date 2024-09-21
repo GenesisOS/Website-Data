@@ -6,8 +6,7 @@
     ],
     "Prerequisite": [
       "ROM",
-      "Boot",
-      "VendorBoot"
+      "Recovery"
     ],
     "HowToFlash": [
       "Reboot to Fastboot by pressing Vol Down + Power Button",

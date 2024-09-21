@@ -1,8 +1,11 @@
-Highlights & Device Specific Changes:
-Build type: Stable
-Device: Redmi Note 9 5G / Mi 10T Lite / Mi 10i
-Device maintainer: Penguin
+**20 Sep 2024**
 
-=====  2 June 2024 =====
+* Android 14 QPR3 release with September 2024 security patch
+* Upstreamed kernel
+* Switched Skia renderer to OpenGL to minimize UI lags
+* Added JamesDSP
+* Fixed offline charging animation
+
+**2 June 2024**
 
 * Initial release
