@@ -1,9 +1,15 @@
-Highlights & Device Specific Changes:
-Build type: Stable
-Device: Poco F1
-Device maintainer: Akshat
+**21 September 2024**
 
-=====  02 June 2024 =====
+* Initial QPR3 release
+* Switched back to dynamic partition(Thanks to google)
+* Added Viper4fx support
+* Dropped dirac a.k.a Mi Sound Enhancer
+* Implemented dynamic thermal profiles
+* Switched to QTI vibrator
+* Addressed few denials
+* Improved overall system stability
+
+**02 June 2024**
 
 * Switched to Etude kernel
 * Switched back to system_ext partition
@@ -11,12 +17,12 @@ Device maintainer: Akshat
 * Added props to improve battery backup
 * Addressed sepolicy denials
 
-=====  22 February 2024 =====
+**22 February 2024**
 
 * Added MiCam
 * Fixup powerhal crashes on logs
 * Silence OpenGL renderer logspams
 
-=====  04 February 2024 =====
+**04 February 2024**
 
 * Initial release

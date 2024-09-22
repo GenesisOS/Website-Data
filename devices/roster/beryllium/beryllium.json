@@ -7,12 +7,12 @@
          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/beryllium/beryllium.png",
          "isMaintained": true,
          "maintainer": "Akshat",
-         "buildDate": "04 Feb 2024",
+         "buildDate": "22 Sept 2024",
          "oem": "Poco",
          "download": "https://www.pling.com/p/1918923/",
          "supportGroup": "https://t.me/GenesisOSChat",
          "donate": "https://t.me/AkatsukiProjects/9",
-         "olderBuilds": "https://sourceforge.net/projects/genesisos/files/UTOPIA/BERYLLIUM/"
+         "olderBuilds": "https://www.pling.com/p/1918923/"
       }
    ]
 }
