@@ -7,12 +7,12 @@
          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/devon/devon.png",
          "isMaintained": true,
          "maintainer": "José",
-         "buildDate": "01 Feb 2024",
+         "buildDate": "23 Sep 2024",
          "oem": "Motorola",
          "download": "https://www.pling.com/p/2127039/",
          "supportGroup": "https://t.me/genesis_sm6225",
          "donate": "https://t.me/AkatsukiProjects/9",
-         "olderBuilds": "https://sourceforge.net/projects/genesisos/files/UTOPIA/DEVON/"
+         "olderBuilds": "https://www.pling.com/p/2127039/"
       }
    ]
 }

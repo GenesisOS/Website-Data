@@ -1,28 +1,26 @@
 {
-    "Notes": [
-    "Use Genesis Recovery",
-    "Clean flash mandatory",
-    "Use latest Regional FW"
-    ],
-    "Prerequisite": [
-      "ROM",
-      "DTBO",
-      "Boot",
-      "VendorBoot",
-      "<a href='www.google.com'>Copy_Partion</a>"
-    ],
-    "HowToFlash": [
-      "Reboot to Fastboot by pressing Vol Down + Power Button",
-      "Open CMD or Terminal on your PC and connect your phone via USB",
-      "Type the following command: <pre>fastboot flash dtbo dtbo.img</pre>",
-      "Type the following command: <pre>fastboot flash vendor_boot vendor_boot*.img</pre>",
-      "Type the following command: <pre>fastboot flash boot boot.img</pre>",
-      "After flashing, reboot into Recovery by pressing Volume Up + Power Button or by typing: <pre>fastboot reboot recovery</pre>",
-      "On the device, select “Apply Update”, then “Apply from ADB” to begin the sideload.",
-      "On the host machine, sideload the package using <pre>adb -d sideload copy-partitions-*.zip</pre>",
-      "Now Tap On Advanced and then press Reboot To Recovery",
-      "After rebooting into Recovery click on Factory Reset and then do Format data or Factory reset",
-      "Tap On Apply Update > Apply From Sideload and type :<pre>adb sideload GenesisOS-Official*.zip</pre>",
-      "Reboot Done."
-    ]
-  }
+  "Notes": [
+  "Use Genesis Recovery",
+  "Clean flash mandatory"
+  ],
+  "Prerequisite": [
+    "ROM",
+    "Boot",
+    "DTBO",
+    "VendorBoot",
+    "Copy_Partition"
+  ],
+  "HowToFlash": [
+    "Reboot to Fastboot by pressing Vol Down + Power Button",
+    "Open CMD or Terminal on your PC and connect your phone via USB",
+    "Type the following command: <pre>fastboot flash boot boot.img</pre>",
+    "Type the following command: <pre>fastboot flash vendor_boot vendor_boot*.img</pre>",
+    "Then type: <pre>fastboot flash dtbo dtbo.img</pre>",
+    "After flashing, reboot into Recovery by pressing Volume Up + Power Button",
+    "Now flash copy_partition.zip by going to Apply Update using the following command: <pre>adb -d sideload copy-partitions-20220613-signed.zip</pre>",
+    "After flashing reboot Recovery, then click on Factory Reset and then do Format data / Factory reset",
+    "Select Apply Update using Sideload",
+    "Install the ROM by typing: adb -d sideload GenesisOS-Official*.zip",
+    "After flashing reboot to system"
+  ]
+}
