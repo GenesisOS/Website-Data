@@ -20,7 +20,7 @@
     "Now flash copy_partition.zip by going to Apply Update using the following command: <pre>adb -d sideload copy-partitions-20220613-signed.zip</pre>",
     "After flashing reboot Recovery, then click on Factory Reset and then do Format data / Factory reset",
     "Select Apply Update using Sideload",
-    "Install the ROM by typing: adb -d sideload GenesisOS-Official*.zip",
+    "Install the ROM by typing: <pre>adb -d sideload GenesisOS-Official*.zip</pre>",
     "After flashing reboot to system"
   ]
 }
