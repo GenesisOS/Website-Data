@@ -1,8 +1,7 @@
-Highlights & Device Specific Changes:
-Build type: Stable
-Device: Realme GT 5G
-Device maintainer: MNoxx74
+**29 Sept 2024**
+* Added dolby atmos
+* Fixed camera night mode & Long exposure crash
+* Fixes the flicker on turning of the screen when udfps is enabled
 
-=====  2 June 2024 =====
-
+**2 June 2024**
 * Initial release
