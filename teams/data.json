@@ -159,6 +159,16 @@
           "gitUrl": "https://github.com/MNoxx74",
           "telegramUrl": "https://t.me/MNoxx74",
           "imageUrl": "https://avatars.githubusercontent.com/u/81765576"
-       }     
+       },
+       {
+         "id": 18,
+         "name": "Perses",
+         "designation": "Maintainer",
+         "description": "Alioth",
+         "isActive": true,
+         "gitUrl": "https://github.com/bntxperses",
+         "telegramUrl": "https://t.me/bntxperses",
+         "imageUrl": "https://avatars.githubusercontent.com/u/113546203?v=4"
+      }     
     ]
  }

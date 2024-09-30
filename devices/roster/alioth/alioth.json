@@ -6,13 +6,13 @@
          "codename": "alioth",
          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/alioth/alioth.png",
          "isMaintained": true,
-         "maintainer": "Yoriscape x Pain",
-         "buildDate": "01 Feb 2024",
+         "maintainer": "Perses x Pain",
+         "buildDate": "30 Sep 2024",
          "oem": "Xiaomi",
          "download": "https://www.pling.com/p/1917153/",
          "supportGroup": "https://t.me/GenesisOSKona",
          "donate": "https://t.me/AkatsukiProjects/9",
-         "olderBuilds": "https://sourceforge.net/projects/genesisos/files/UTOPIA/ALIOTH/"
+         "olderBuilds": "https://www.pling.com/p/1917153/"
       }
    ]
 }

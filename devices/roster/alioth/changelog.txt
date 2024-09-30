@@ -1,8 +1,8 @@
-Highlights & Device Specific Changes:
-Build type: Stable
-Device: Poco F3/ Mi 11x
-Device maintainer: Yoriscape x Pain
+**30 Sept 2024**
+* QPR3 Initial Build
+* Fully rebased trees
+* Fixed Statusbar padding
+* Updated Blobs
 
-=====  28 February 2024 =====
-
+**28 Feb 2024**
 * Initial release
