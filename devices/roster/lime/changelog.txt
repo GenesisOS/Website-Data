@@ -1,8 +1,10 @@
-Highlights & Device Specific Changes:
-Build type: Stable
-Device: Redmi 9T
-Device maintainer: ash
+**03 Sept 2024**
+* sepolicy: Address bluetooth denials
+* props: Disable the property debug.sf.enable_gl_backpressure
+* Use lineage radio config wrapper
+* Kang Adreno blobs from Oculus Quest 2
+* Switch to prebuilt DTB/O images"
+* Switch to Grass Kernel
 
-=====  25 February 2024 =====
-
+**25 February 2024**
 * Initial release

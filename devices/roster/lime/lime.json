@@ -7,12 +7,12 @@
          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/lime/lime.png",
          "isMaintained": true,
          "maintainer": "Ash",
-         "buildDate": "01 Feb 2024",
+         "buildDate": "03 Sep 2024",
          "oem": "Redmi",
          "download": "https://www.pling.com/p/2127035/",
          "supportGroup": "https://t.me/ashhcafe",
          "donate": "https://t.me/AkatsukiProjects/9",
-         "olderBuilds": "https://sourceforge.net/projects/genesisos/files/UTOPIA/LIME/"
+         "olderBuilds": "https://www.pling.com/p/2127035/"
       }
    ]
 }
