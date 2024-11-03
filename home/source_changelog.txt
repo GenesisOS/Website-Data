@@ -1,3 +1,86 @@
+**GenesisOS 4.0 Verve**
+
+1. System Utilities & Settings:
+   - Introduced ADBRootService support.
+   - Introduced status bar icon tuner.
+   - Navigation Bar Tuning: Options to invert layout and hide gestural navbar.
+   - Added Screen Burn-in Protection for both status bar and navigation bar.
+   - Added support for qcom HDMI audio.
+   - Added a page for screen-off UDFPS. (Under Display Fingerprint Scanner)
+   - Added support for Bluetooth battery level display in status bar.
+   - Added Support for UDFPS dim layer adjustment.
+
+2. Quick Settings Tiles (QS):
+   - Added tiles for:
+     - Caffeine, Heads Up, Sync, Ambient Display, USB Tether
+     - Always-On Display (AOD), Powershare, Wi-Fi & Cellular
+     - NFC, VPN, Data Switch, Dream
+   - SystemUI enhancements:
+     - Enable cast tile without Wi-Fi connection
+     - Internet tile: Long-press to access mobile network settings
+
+3. Notification & Gesture Enhancements:
+   - Option to change minimum delay between consecutive notification sounds
+   - Three-Finger Screenshot Gesture
+   - Long-Press Power Button to toggle flashlight
+   - Double-tap to sleep on lockscreen and status bar
+
+4. Brightness Control:
+   - Added auto-brightness toggle on QS brightness slider
+   - Support for one-shot auto-brightness adjustments
+
+5. Screenshot Improvements:
+   - Screenshot filenames append app name for easy identification
+   - Added delete action chip for quick deletion after capture
+
+6. Battery & Power Management:
+   - Support for Moto Mods Battery
+   - Extended Battery Information page:
+     - Details on technology, health, temperature, voltage, charge counter, design capacity, and maximum capacity
+   - Peak & Minimum Refresh Rate Control
+   - Cloudflare DNS as a private DNS provider
+   - Made battery icon clickable
+
+7. Camera Enhancements:
+   - Compatibility with Miui and Oplus camera apps
+
+8. Download Manager:
+   - Manual pause and resume download capability
+
+9. Screen Recording:
+   - Enhanced options, including:
+     - Frame rate limitation, AVC codec profile (using AVCProfileMain), and HEVC recording
+     - Blinking Stop Dot with adjustable position and state retention
+     - Low Quality recording scalable per device
+     - Extended recording durations and adjustable 3-second timer
+     - Persistent settings for permissions dialogs, streamlined notification dismissal
+
+10. Location & GPS:
+    - Toggle for Assisted GPS (AGPS) for improved location accuracy
+
+11. Smartspace Integration:
+    - Added Smartspace support for enhanced contextual info
+
+12. Security & Privacy:
+    - Minimum PIN length reduced to 4 (auto-confirm enabled)
+    - FaceUnlock service integration
+    - Signature Spoofing for MicroG Companion/Services
+
+13. New UI Enhancements:
+    - Updated Settings UI with latest Android 15 changes
+    - SystemUI: Show package name in installed app details
+
+14. Performance & Stability Improvements:
+    - Enhanced system stability across various components for a smoother, more reliable user experience
+    - USB: Charging notification only shown when power brick is disconnected
+    - Libraries:
+      - libhwui: Compiled with O3 for performance, deprecated flags removed, optimized for frame-pointer omission
+      - skia: Optimized 2D drawing performance (latency-sensitive library)
+      - art: Compiled with O3 for system-wide performance, enhancing Android Runtime (ART) latency
+      - bionic: Optimized libc with O3, improving system-wide responsiveness
+      - SystemServiceRegistry, ThemedResourceCache, LocalServices, LayoutInflater: Replaced ArrayMap with HashMap for efficiency
+      - Trace: Disabled debug tracing in production builds for performance
+
 **17 September 2024**
 
 * September Security Patch
