@@ -1,3 +1,8 @@
+**04 November 2024**
+
+* Initial Verve Build
+
+
 **20 September 2024**
 
 * Add moto dolby support
