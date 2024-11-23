@@ -1,7 +1,8 @@
 {
     "Notes": [
     "Use Genesis Recovery",
-    "Clean flash mandatory",
+    "Dirty flashable over last A15 build",
+    "Clean flash mandatory if coming from A14",
     "Use latest Regional FW"
     ],
     "Prerequisite": [
