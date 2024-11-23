@@ -1,3 +1,36 @@
+**Genesis 4.0 Verve November Update**
+
+1. Privacy & Security
+   - Allow hotspot clients to use VPN.
+   - Hide mobile hotspot from selected WLAN networks.
+   - List, manage, and block connected devices via hotspot.
+   - Added Pocket Detection support.
+   - Option to hide ADB/Developer Setting enable status.
+
+2. Customization Options
+   - Added Black Theme option for a sleeker look.
+   - System-Wide GSans font for a unified aesthetic.
+   - Advanced Reboot option for improved functionality.
+   - Ringtone Settings now support multi-SIM devices.
+
+3. Audio Features
+   - Added In-call Vibration Options for better call alerts.
+   - Notification Behavior Tweaks:
+     - Suppress notification sound/vibration when the screen is on.
+     - Disable screenshot shutter sound.
+
+4. Heads-Up Notifications:
+   - Global toggle to enable/disable.
+   - "Less Boring Heads-Up" option for subtle alerts.
+   - Added Window Ignore Secure feature.
+   - Rearranged the Settings Page for easier navigation.
+
+5. Networking Options
+   - Added support for AdGuard, CleanBrowsing, OpenDNS, and Quad9 DNS providers.
+
+6. Fixes & Improvements
+   - Resolved issues with Themed Icons.
+
 **GenesisOS 4.0 Verve**
 
 1. System Utilities & Settings:
