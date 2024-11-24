@@ -1,7 +1,8 @@
 {
     "Notes": [
-    "Use Genesis Recovery",
-    "Clean flash mandatory",
+    "Genesis & Custom Recovery Flashable",
+    "Dirty flashable over last Verve Build",
+    "Clean flash mandatory from Utopia",
     "Use latest Regional FW"
     ],
     "Prerequisite": [
