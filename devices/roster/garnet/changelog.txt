@@ -1,1 +1,2 @@
-No changelog available yet
+**26 November 2024**
+* Initial Verve Build

@@ -2,17 +2,17 @@
    "response": [
       {
          "id": 1,
-         "name": "Moto G52",
+         "name": "Poco X6/Redmi Note 13 Pro",
          "codename": "garnet",
          "imageUrl": "https://raw.githubusercontent.com/GenesisOS/Website-Data/v2/devices/roster/garnet/garnet.png",
          "isMaintained": true,
-         "maintainer": "José",
-         "buildDate": "01 Feb 2024",
-         "oem": "Motorola",
-         "download": "https://www.pling.com/p/2130429/",
-         "supportGroup": "https://t.me/genesis_sm6225",
+         "maintainer": "Ayush",
+         "buildDate": "26 Nov 2024",
+         "oem": "Xiaomi",
+         "download": "https://www.pling.com/p/2227290/",
+         "supportGroup": "https://t.me/GenesisOSGarnet",
          "donate": "https://t.me/AkatsukiProjects/9",
-         "olderBuilds": "https://sourceforge.net/projects/genesisos/files/UTOPIA/garnet/"
+         "olderBuilds": "https://www.pling.com/p/2227290/"
       }
    ]
 }
