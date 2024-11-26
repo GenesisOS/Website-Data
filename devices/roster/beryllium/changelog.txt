@@ -1,9 +1,12 @@
-**5 November 2024**
+**25 November 2024**
+* Addressed powerstats denials
+* Improved thermals and smoothness
+* Many misc improvements
 
+**5 November 2024**
 * Initial Verve Build
 
 **21 September 2024**
-
 * Initial QPR3 release
 * Switched back to dynamic partition(Thanks to google)
 * Added Viper4fx support
@@ -14,7 +17,6 @@
 * Improved overall system stability
 
 **02 June 2024**
-
 * Switched to Etude kernel
 * Switched back to system_ext partition
 * Fixed VP9 playback issues
@@ -22,11 +24,9 @@
 * Addressed sepolicy denials
 
 **22 February 2024**
-
 * Added MiCam
 * Fixup powerhal crashes on logs
 * Silence OpenGL renderer logspams
 
 **04 February 2024**
-
 * Initial release
