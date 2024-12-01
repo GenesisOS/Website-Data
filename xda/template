@@ -1,0 +1,65 @@
+[CENTER]
+[IMG]https://raw.githubusercontent.com/GenesisOS/Website-Data/refs/heads/v2/xda/assets/Header.png[/IMG]
+
+[SIZE="4"]Beyond Ordinary!
+[B][I]GenesisOS[/I][/B] is a custom ROM based on AOSP with nifty little Quality of Life features to enhance your daily driving experience.[/SIZE]
+
+[IMG]https://raw.githubusercontent.com/GenesisOS/Website-Data/refs/heads/v2/xda/assets/Features.png[/IMG]
+
+[SIZE="4"][B]Full Features List [I][URL="https://GenesisOS.dev/features"][COLOR=rgb(120, 235, 66)]Click Here![/COLOR][/URL][/B][/I][/SIZE]
+
+[IMG]https://raw.githubusercontent.com/GenesisOS/Website-Data/refs/heads/v2/xda/assets/Flashing.png[/IMG]
+
+[SIZE="6"][B][I]First Time Install/Clean Flash[/I][/B][/SIZE]
+[SIZE="4"][B][COLOR=rgb(255, 94, 94)]Warning:[/COLOR] Take Full Backup of your Internal Storage[/B]
+- Reboot to Fastboot
+- Flash boot and vendorboot image
+- Reboot to Recovery Mode
+- Go to Factory Reset > Format data/factory reset > Factory Reset [B][This will Format the Internal Storage][/B]
+- Now go to Apply update > Apply from ADB > adb sideload romfile.zip 
+- Reboot to System[/SIZE]
+
+[SIZE="6"][B][I]Update/Dirty Flash[/I][/B][/SIZE]
+[SIZE="4"]Use Our [I][B][COLOR=rgb(120, 235, 66)]Inbuilt Updater[/COLOR][/I][/B]
+OR
+- Reboot to Recovery Mode
+- Go to Apply update > Apply from ADB > adb sideload romfile.zip
+- Reboot to System [/SIZE]
+
+[IMG]https://raw.githubusercontent.com/GenesisOS/Website-Data/refs/heads/v2/xda/assets/Links.png[/IMG]
+
+[SIZE="4"][B]ROM:[/B] [I][URL="https://GenesisOS.dev/devices/YourDevice"][COLOR=rgb(120, 235, 66)]Download![/COLOR][/URL][/I]
+[B]Screenshots:[/B] [I][URL="https://t.me/GOSCRN"][COLOR=rgb(120, 235, 66)]Checkout![/COLOR][/URL][/I]
+[B]Device Support:[/B] [I][URL="https://t.me/DeviceGroupLink"][COLOR=rgb(120, 235, 66)]Join![/COLOR][/URL][/I]
+[B]Source Support:[/B] [I][URL="https://t.me/GenesisOSChat"][COLOR=rgb(120, 235, 66)]Join![/COLOR][/URL][/I][/SIZE]
+
+[IMG]https://raw.githubusercontent.com/GenesisOS/Website-Data/refs/heads/v2/xda/assets/Issues.png[/IMG]
+
+[SIZE="4"][B]You Tell Me.[/B][/SIZE]
+[SIZE="4"]* If you face any Bug, Take a logcat and mention the steps to recreate the bug and then send it to our
+[B][I][URL="https://t.me/GenesisOSChat"][COLOR=rgb(120, 235, 66)]Device Support Group![/COLOR][/URL][/B][/I][/SIZE]
+
+[IMG]https://raw.githubusercontent.com/GenesisOS/Website-Data/refs/heads/v2/xda/assets/Info.png[/IMG]
+
+[SIZE="4"][B]GenesisOS:[/B] [I]4.0 - Verve[/I]
+[B]Device:[/B] [I]Codename of your device[/I]
+[B]Maintainer:[/B] [I]Your-Name[/I]
+[B]Build Type:[/B] [I]Unofficial/Official[/I]
+[B]Status:[/B] [I]Stable[/I]
+
+[B]ROM OS Version:[/B] [I]Android 15[/I]
+[B]ROM Kernel Version:[/B] [I]Linux X.X[/I]
+[B]ROM Firmware Required:[/B] [I]Must be on Latest Firmware[/I]
+[B]Based On:[/B] [I]AOSP[/I]
+
+[B]ROM Source:[/B] [I][URL="https://github.com/GenesisOS"][COLOR=rgb(120, 235, 66)]Here![/COLOR][/URL][/I]
+[B]Kernel Source:[/B] [I][URL="Kramel Lenk Here"][COLOR=rgb(120, 235, 66)]Here![/COLOR][/URL][/I]
+
+[IMG]https://raw.githubusercontent.com/GenesisOS/Website-Data/refs/heads/v2/xda/assets/Donate.png[/IMG]
+
+If you liked our project then help us with your donation. Your donation can help us run and sustain GenesisOS Project for longer by covering server and infra cost.
+
+[B]Donate:[/B] [I][URL="https://t.me/AkatsukiProjects/9"][COLOR=rgb(120, 235, 66)]Here![/COLOR][/URL][/I]
+
+[B]Release Date:[/B] [I]9-01-2024[/I]
+[B]Updated On:[/B] [I]9-01-2024[/I][/SIZE][/CENTER]
