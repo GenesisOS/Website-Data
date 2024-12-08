@@ -1,3 +1,6 @@
+**29 Nov 2024**
+* Initial Verve Build
+
 **23 Sept 2024**
 * Upstreamed kernel version to 4.19.318
 
