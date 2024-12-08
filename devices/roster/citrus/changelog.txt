@@ -1,3 +1,6 @@
+**08 Dec 2024**
+* Initial Verve Build
+
 **03 Sept 2024**
 * sepolicy: Address bluetooth denials
 * props: Disable the property debug.sf.enable_gl_backpressure

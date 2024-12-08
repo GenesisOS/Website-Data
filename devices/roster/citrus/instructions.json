@@ -1,9 +1,8 @@
 {
   "Notes": [
-  "Use Genesis Recovery",
-  "Clean flash mandatory",
-  "Use 14.0.2 FW",
-  "Latest OFox & TWRP Flashable ROM"
+  "Genesis & Custom Recovery Flashable",
+  "Clean flash mandatory over Utopia",
+  "Recommended Firmware 14.0.2"
   ],
   "Prerequisite": [
     "ROM",
