@@ -1,4 +1,35 @@
-**Genesis 4.0 Verve November Update**
+**GenesisOS V4.2-Verve April Update**
+
+1. System Enhancements 
+   - Unlocked support for higher FPS 
+   - Added under-the-hood bug fixes and overall performance optimizations 
+
+2. UI and UX Improvements 
+   - Introduced Circle Battery Style 
+   - Enabled Full Screen Cutout Support for immersive apps 
+   - Option to hide power menu on secure lockscreen 
+   - Redesigned Power Menu with Advanced Reboot Options 
+
+3. Network and Status Icons 
+   - New Network Traffic Indicator 
+   - Added icons for HD Calls and VoWiFi 
+   - Option to display 4G icon instead of LTE 
+   - Introduced LTE CA (Carrier Aggregation) indicator 
+   - Added toggle to show Data Disabled status icon 
+
+4. Sound and Vibration 
+   - New In-call Vibration Options 
+   - Support for RichTap Vibrations 
+   - Option to skip tracks using volume buttons 
+
+5. Privacy and Security 
+   - Introduced App Lock 
+   - Multi-SIM Ringtone Settings support 
+
+6. Customization 
+   - Added a wide range of Ambient Display Settings
+
+**GenesisOS V4.0-Verve November Update**
 
 1. Privacy & Security
    - Allow hotspot clients to use VPN.
