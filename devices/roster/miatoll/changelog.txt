@@ -1,3 +1,10 @@
+**13 April 2025**
+ 
+* Initial A15 QPR2 release
+* Updated dolby blobs
+* Switched audio HAL to V7
+* Many more under-the-hood fixes and optimizations
+
 **24 November 2024**
 * Fixed FP Indicator
 * Fixed Screen Recording Crash
