@@ -1,3 +1,14 @@
+**17 April 2025**
+
+* Removed NXP,NFC & eSE sepolicy rules
+* Rewrite access to BT and WiFi MAC address files
+* Switched to AOSP WFD
+* Cleanup unused props
+* Added more props to improve smoothness,responsiveness and ram management
+* Addressed kernel & xiaomiparts sepolicy denials
+* Switched back to AIDL Xiaomi light(Fixes rapid blink of notification led)
+* Migrated thermal profiles to system settings
+
 **25 November 2024**
 * Addressed powerstats denials
 * Improved thermals and smoothness

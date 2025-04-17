@@ -1,3 +1,10 @@
+**17 April 2025**
+
+* Disable OMX service
+* Updated Audio HAL to V7
+* Switch to OpenGL for rendering
+* Many more under-the-hood fixes and optimizations
+
 **26 November 2024**
 * Initial Verve Build
 
