@@ -1,3 +1,7 @@
+**17 April 2025**
+* Dropped OMX Codecs
+* Updated Audio HAL
+
 **23 Nov 2024**
 * Updated Adreno Stack
 

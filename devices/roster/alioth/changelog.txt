@@ -1,3 +1,6 @@
+**17 April 2025**
+* Initial A15 QPR2 release
+
 **23 Nov 2024**
 * Initial Verve Build
 
