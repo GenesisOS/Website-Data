@@ -1,3 +1,10 @@
+**27 April 2025**
+
+* Switch to oss audio HAL
+* Disable OMX service
+* Support secure NFC for all SKUs
+* Setup DeviceAsWebcam
+
 **5 November 2024**
 
 *Initial Verve Build
