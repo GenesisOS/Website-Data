@@ -1,3 +1,23 @@
+**GenesisOS V4.3-Verve May Update**
+
+1. Lock Screen Animation Restored
+   - Enjoy the smooth transition once again when locking and unlocking your device.
+
+2. Enhanced Screen Recording
+   - More tools, more flexibility—record your screen like a pro.
+
+3. Dynamic PIF Support
+   - Smarter personalization with dynamic Play Integrity Fix integration.
+
+4. Per-App Volume Control
+   - Fine-tune audio levels for individual apps—because one size doesn’t fit all.
+
+5. ADB Options Toggle Hidden
+   - Cleaner settings menu by default, with less clutter for non-developers.
+
+6. Quick Tap Improvements
+   - Better responsiveness and new possibilities with gesture actions.
+
 **GenesisOS V4.2-Verve April Update**
 
 1. System Enhancements 
