@@ -1,3 +1,7 @@
+**20 May 2025**
+
+* Added Detection for Refreshrate Switching
+
 **17 April 2025**
 
 * Disable OMX service
