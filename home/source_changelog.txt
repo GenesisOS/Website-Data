@@ -1,3 +1,8 @@
+**GenesisOS V4.4-Verve June Update**
+
+1. Enhanced PIF Support
+   - Added inbuilt Keybox Support
+   
 **GenesisOS V4.3-Verve May Update**
 
 1. Lock Screen Animation Restored
