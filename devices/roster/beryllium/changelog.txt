@@ -1,3 +1,16 @@
+**21 June 2025**
+
+* Bumped to v4.4
+* Upstreamed electro kernel to v4
+* Set swappiness to 60(Improves overall ram management)
+* Kang powerstats from crosshatch
+* Switched to pixel thermals AIDL
+* Implemented dynamic thermal profiles with pixel thermal-engine
+* Updated adreno blobs
+* Use prelude clang with kernel
+* Reduced ZRAM size to 25%
+* Switched back to light hals HIDL(Fixes rapid blink of notification led again)
+
 **17 April 2025**
 
 * Removed NXP,NFC & eSE sepolicy rules
